@@ -1,6 +1,6 @@
 ---
 layout: page
-title: W3C TAG Findings
+title: TAG Findings
 ---
 
 At its 4 Nov 2002 teleconference, the TAG agreed to adopt the following policy for managing findings.
