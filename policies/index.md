@@ -11,7 +11,7 @@ TAG participants who are not employees of a W3C Member organization must agree t
 
 Technical reports published by the TAG will bear the following copyright notice:
 
-Copyright  © 2002 [W3C](http://www.w3.org/) ([MIT](http://www.lcs.mit.edu/), [INRIA](http://www.inria.fr/), [Keio](http://www.keio.ac.jp/)), All Rights Reserved. W3C [liability](http://www.w3.org/Consortium/Legal/ipr-notice.html#LegalDisclaimer), [trademark](http://www.w3.org/Consortium/Legal/ipr-notice.html#W3CTrademarks), [document use](http://www.w3.org/Consortium/Legal/copyright-documents.html) and [software licensing](http://www.w3.org/Consortium/Legal/copyright-software.html) rules apply.
+> Copyright  © 2002 [W3C](http://www.w3.org/) ([MIT](http://www.lcs.mit.edu/), [INRIA](http://www.inria.fr/), [Keio](http://www.keio.ac.jp/)), All Rights Reserved. W3C [liability](http://www.w3.org/Consortium/Legal/ipr-notice.html#LegalDisclaimer), [trademark](http://www.w3.org/Consortium/Legal/ipr-notice.html#W3CTrademarks), [document use](http://www.w3.org/Consortium/Legal/copyright-documents.html) and [software licensing](http://www.w3.org/Consortium/Legal/copyright-software.html) rules apply.
 
 TAG participants who are not willing to contribute under these terms must refrain from doing so and notify the Chair as to the reason why.
 
