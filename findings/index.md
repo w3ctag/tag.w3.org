@@ -26,9 +26,9 @@ Having approved a finding:
 * [Internet Media Type registration, consistency of use](http://www.w3.org/2001/tag/2004/0430-mime) - 30 April 2004
 * [How should the problem of identifying ID semantics in XML languages be addressed in the absence of a DTD?](http://www.w3.org/2001/tag/doc/xmlIDSemantics-32.html) - 30 November 2004
 * [The Disposition of Names in an XML Namespace](http://www.w3.org/2001/tag/doc/namespaceState.html) - 9 January 2006
-* [The Rule of Least Power](doc/leastPower.html) - 23 February 2006
-* [Authoritative Metadata](doc/mime-respect-20130422) - 22 April 2013
-* [On Linking Alternative Formats To Enable Discovery And Publishing](doc/alternatives-discovery.html) - 1st November 2006
+* [The Rule of Least Power](http://www.w3.org/2001/tag/doc/leastPower.html) - 23 February 2006
+* [Authoritative Metadata](http://www.w3.org/2001/tag/doc/mime-respect-20130422) - 22 April 2013
+* [On Linking Alternative Formats To Enable Discovery And Publishing](http://www.w3.org/2001/tag/doc/alternatives-discovery.html) - 1st November 2006
 * [The use of Metadata in URIs](http://www.w3.org/2001/tag/doc/metaDataInURI-31.html) - 2 January 2007
 * [Associating Resources with Namespaces](http://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
 * [The Self-Describing Web](http://www.w3.org/2001/tag/doc/selfDescribingDocuments.html) - 7 February 2009
@@ -36,7 +36,7 @@ Having approved a finding:
 
 ## Draft Findings
 
-* [Passwords in the Clear](doc/passwordsInTheClear-52)
+* [Passwords in the Clear](http://www.w3.org/2001/tag/doc/passwordsInTheClear-52)
 * [Abstract Component References](http://www.w3.org/2001/tag/doc/abstractComponentRefs.html)
 * [XML Chunk Equality](http://www.w3.org/2001/tag/doc/xmlChunkEquality.html)
 * [URI Schemes and Web Protocols](http://www.w3.org/2001/tag/doc/SchemeProtocols.html)
