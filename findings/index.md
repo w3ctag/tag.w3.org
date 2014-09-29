@@ -1,5 +1,5 @@
 ---
-layout: front
+layout: page
 title: W3C TAG Findings
 ---
 
