@@ -12,13 +12,18 @@ This page summarizes disclosures by participants in W3C's [Technical Architectur
 
 For information about copyright of TAG publications, please refer to the [TAG contributor policies](/policy/).
 
-## TAG Participant Disclosures
+---
+
+
+## Disclosures by TAG Participants
 
 This section lists disclosures by TAG participants. Currently, there are no disclosures.
 
-## Third-Party Disclosures
+## Disclosures by Third Parties
 
 This section lists third-party disclosures related to work produced by the TAG. Currently, there are no disclosures.
+
+---
 
 ## Making Disclosures
 
