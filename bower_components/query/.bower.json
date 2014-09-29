@@ -1,0 +1,41 @@
+{
+  "name": "query",
+  "version": "0.0.2",
+  "homepage": "https://github.com/Nijikokun/query-js",
+  "authors": [
+    "Nijiko Yonskai <nijikokun@gmail.com>"
+  ],
+  "description": "Lightweight query-string builder and parser for frontend & backend, but mostly front-end use.",
+  "main": "query.js",
+  "keywords": [
+    "query",
+    "querystring",
+    "string",
+    "builder",
+    "parser",
+    "parse",
+    "uri",
+    "url",
+    "hash",
+    "lightweight",
+    "micro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "fc4802985d72b13eb8f28b06fdbbb8fa6680d6b6"
+  },
+  "_source": "git://github.com/Nijikokun/query-js.git",
+  "_target": "~0.0.2",
+  "_originalSource": "query",
+  "_direct": true
+}
