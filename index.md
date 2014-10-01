@@ -14,7 +14,7 @@ See the [spec reviews repo](https://github.com/w3ctag/spec-reviews).
 ## Documentation
 
 * [Promises Guide](https://github.com/w3ctag/promises-guide)
-* [Extensible Web Report Card](https://github.com/w3ctag/extensible-web-report-card)
+* [Extensible Web Report Card](https://w3ctag.github.io/extensible-web-report-card)
 
 ## TAG-Driven Specifications
 
