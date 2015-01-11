@@ -16,7 +16,7 @@ As part of our regular work, we review W3C and other Web-related specifications.
 
 One of the main kinds of TAG deliverables is a "finding" -- a statement about the architecture of the Web. We are currently working on the following findings:
 
-* [Transitioning the Web to HTTPS](https://w3ctag.github.io/web-https/)
+* [Securing the Web](https://w3ctag.github.io/web-https/)
 
 ## TAG-Driven Specifications
 
