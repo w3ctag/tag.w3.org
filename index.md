@@ -1,24 +1,27 @@
 ---
 layout: front
-title: TAG Current Work
+title: W3C TAG Workspace
 ---
 
-# TAG Current Work
+# W3C TAG Workspace
 
 The Technical Architecture Group ("TAG") of the [W3C](http://www.w3.org/) is responsible for the security, sanity, and layering of the overall web platform. The TAG isn't attached to any particular vendor or working group. It is and independent body composed of engineers elected by the membership of the W3C. It works to safeguard and extend the architecture of the web through coordination, collaboration, and review. The TAG includes experts in networking, security, JavaScript, language design, layout, DOM, data (including linked-data), and standards process.
 
 Engineers and Working Groups are encouraged to reach out to the TAG for early collaborative feedback about proposed or ongoing work that will eventually become part of a W3C standard.
 
-This page tracks the [W3C TAG's](http://www.w3.org/2001/tag/) current work items.
+This page tracks TAG activities and work items; for more information about us, see the [W3C TAG page](http://www.w3.org/2001/tag/).
 
-## Specification Reviews
+
+## TAG Specification Reviews
 
 As part of our regular work, we review W3C and other Web-related specifications. See the [spec reviews repo](https://github.com/w3ctag/spec-reviews).
 
 
-##  Draft Findings
+##  TAG Findings
 
-One of the main kinds of TAG deliverables is a "finding" -- a statement about the architecture of the Web. We are currently working on the following findings:
+One of the main kinds of TAG deliverables is a "finding" -- a statement about the architecture of the Web. See the [complete listing of published findings](/findings/).
+
+We are currently working on the following findings:
 
 * [Securing the Web](https://w3ctag.github.io/web-https/)
 
