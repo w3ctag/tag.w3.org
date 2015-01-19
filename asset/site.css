@@ -1,5 +1,6 @@
 body {
   margin-top: 75px;
+  margin-bottom: 2em;
   height: 100%;
 }
 *[id]:before { 
@@ -25,3 +26,16 @@ body {
 .navbar-default .navbar-brand {
   color: white;
 }
+.disclaimer {
+  font-size: smaller;
+  margin: 0;
+  padding-top: .25em;
+  width: 100%;
+  text-align: center;
+  display: block;
+  position: fixed;
+  bottom: 0;
+  background-color: #004c82;
+  color: white;
+}
+
