@@ -9,7 +9,7 @@ The Technical Architecture Group ("TAG") of the [W3C](http://www.w3.org/) is res
 
 Engineers and Working Groups are encouraged to reach out to the TAG for early collaborative feedback about proposed or ongoing work that will eventually become part of a W3C standard.
 
-This page tracks TAG activities and work items; for more information about us, see the [W3C TAG page](http://www.w3.org/2001/tag/).
+This page tracks TAG activities and work items; for more information about us, see [What is the TAG?](http://www.w3.org/2001/tag/).
 
 
 ## TAG Specification Reviews
