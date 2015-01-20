@@ -19,7 +19,7 @@ As part of our regular work, we review W3C and other Web-related specifications.
 
 ##  TAG Findings
 
-One of the main kinds of TAG deliverables is a "finding" -- a statement about the architecture of the Web. See the [complete listing of published findings](/findings/).
+TAG "findings" are statements about the architecture of the Web. See the [complete listing of published findings](/findings/).
 
 We are currently working on the following findings:
 
