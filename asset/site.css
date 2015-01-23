@@ -10,11 +10,18 @@ body {
   height: 75px; 
   visibility: hidden; 
 }
+.navbar-left {
+  float: left ! important;
+}
+.navbar-left img {
+  height: 50px;
+  padding: 0;
+}
 .navbar-right {
   padding-right: 15px;
 }
 .navbar-fixed-top {
-    background-image: url(/asset/w3c.png);
+    background-image: url(w3c.png);
     background-position: 50% 100%;
     background-size: cover;
     background-repeat: no-repeat;
