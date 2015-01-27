@@ -18,7 +18,6 @@ Having approved a finding:
 
 ## Approved Findings
 
-* [Securing the Web](http://www.w3.org/2001/tag/doc/web-https)
 * [Mapping between URIs and Internet media types](http://www.w3.org/2001/tag/2002/01-uriMediaType-9) - 27 May 2002
 * [Consistency of Formatting Property Names, Values, and Semantics](http://www.w3.org/2001/tag/doc/formatting-properties.html) - 25 Jul 2002
 * ["Deep Linking" in the World Wide Web](http://www.w3.org/2001/tag/doc/deeplinking-20030911) - 11 Sep 2003
@@ -34,6 +33,8 @@ Having approved a finding:
 * [Associating Resources with Namespaces](http://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
 * [The Self-Describing Web](http://www.w3.org/2001/tag/doc/selfDescribingDocuments.html) - 7 February 2009
 * [Identifying Application State](http://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
+* [Securing the Web](http://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
+
 
 ## Draft Findings
 
