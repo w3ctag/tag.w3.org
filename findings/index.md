@@ -18,6 +18,7 @@ Having approved a finding:
 
 ## Approved Findings
 
+* [Securing the Web](http://www.w3.org/2001/tag/doc/web-https)
 * [Mapping between URIs and Internet media types](http://www.w3.org/2001/tag/2002/01-uriMediaType-9) - 27 May 2002
 * [Consistency of Formatting Property Names, Values, and Semantics](http://www.w3.org/2001/tag/doc/formatting-properties.html) - 25 Jul 2002
 * ["Deep Linking" in the World Wide Web](http://www.w3.org/2001/tag/doc/deeplinking-20030911) - 11 Sep 2003

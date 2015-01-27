@@ -21,9 +21,6 @@ As part of our regular work, we review W3C and other Web-related specifications.
 
 TAG "findings" are statements about the architecture of the Web. See the [complete listing of published findings](/findings/).
 
-We are currently working on the following findings:
-
-* [Securing the Web](https://w3ctag.github.io/web-https/)
 
 ## TAG-Driven Specifications
 
