@@ -1,3 +1,5 @@
+###TAG Public Mailing List Code of Conduct
+
 The TAG uses our public mailing list for most technical discussion, in the interest of transparency and to foster engagement with the community. We therefore encourage the community to pose questions, make proposals for new work and discuss our current work items on the TAG mailing list. 
 
 In doing so, we ask that those who participate on the mailing list understand:
