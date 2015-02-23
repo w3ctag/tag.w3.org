@@ -18,6 +18,8 @@ In doing so, we ask that those who participate on the mailing list understand:
 
 * TAG members will read e-mail on www-tag with best effort, but are under no obligation to respond to messages here
 
+* Messages on this list are forwarded to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
+
 * We reserve the right to ban those who persistently post off-topic messages, unsolicited commercial e-mail, those who are disrespectful of others, and those we consider to be “trolls” 
 
 Our formal work, including issue and change tracking for TAG deliverables, is largely happening in Github. So if you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
