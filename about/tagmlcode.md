@@ -1,3 +1,9 @@
+## TAG Work Mode
+
+The TAG's formal work, including issue and change tracking for our deliverables, is largely happening in Github. So if you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
+
+
+
 ###TAG Public Mailing List Code of Conduct
 
 The TAG uses our public mailing list for most technical discussion, in the interest of transparency and to foster engagement with the community. We therefore encourage the community to pose questions, make proposals for new work and discuss our current work items on the TAG mailing list. 
@@ -22,4 +28,3 @@ In doing so, we ask that those who participate on the mailing list understand:
 
 * We reserve the right to ban those who persistently post off-topic messages, unsolicited commercial e-mail, those who are disrespectful of others, and those we consider to be “trolls.”
 
-Our formal work, including issue and change tracking for TAG deliverables, is largely happening in Github. So if you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
