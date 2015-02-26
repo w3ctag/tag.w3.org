@@ -13,14 +13,12 @@ See [our workspace page](/) for a list of our current work items.
 
 Our work items are tracked and developed in [Github](https://github.com/w3ctag/). If you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
 
-TAG discussion takes place on the [public mailing list](https://lists.w3.org/Archives/Public/www-tag/). 
+Technical discussion takes place on the [public mailing list](https://lists.w3.org/Archives/Public/www-tag/). The community is encouraged to pose questions, make proposals for new work and discuss our current work items on this list.
+
+In doing so, we ask that those who participate on the mailing list understand the guidelines below.
 
 
 ###TAG Public Mailing List Code of Conduct
-
-The TAG uses our public mailing list for most technical discussion, in the interest of transparency and to foster engagement with the community. We therefore encourage the community to pose questions, make proposals for new work and discuss our current work items on the TAG mailing list. 
-
-In doing so, we ask that those who participate on the mailing list understand:
 
 * The primary focus of the www-tag list is the current and potential work items of the TAG.
 
