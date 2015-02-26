@@ -11,8 +11,9 @@ Its work items include:
  
 See [our workspace page](/) for a list of our current work items.
 
-The TAG's formal work, including issue and change tracking for our deliverables, is largely happening in Github. So if you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
+Our work items are tracked and developed in [Github](https://github.com/w3ctag/). If you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
 
+TAG discussion takes place on the [public mailing list](https://lists.w3.org/Archives/Public/www-tag/). 
 
 
 ###TAG Public Mailing List Code of Conduct
