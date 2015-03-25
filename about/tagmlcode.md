@@ -9,7 +9,7 @@ Its work items include:
  * **Reviews** - The TAG also reviews specifications in development, Working Group charters and other W3C technical materials.
  * **Documentation** - Finally, the TAG sometimes publishes non-normative documentation and guides.
  
-See [our workspace page](/) for a list of our current work items.
+See [our workspace page](https://github.com/w3ctag/) for a list of our current work items.
 
 Our work items are tracked and developed in [Github](https://github.com/w3ctag/). If you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
 
