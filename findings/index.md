@@ -33,7 +33,8 @@ Having approved a finding:
 * [Associating Resources with Namespaces](http://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
 * [The Self-Describing Web](http://www.w3.org/2001/tag/doc/selfDescribingDocuments.html) - 7 February 2009
 * [Identifying Application State](http://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
-* [Securing the Web](http://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
+* [Securing the Web](https://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
+* [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
 
 
 ## Draft Findings
