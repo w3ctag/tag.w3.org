@@ -35,6 +35,7 @@ Having approved a finding:
 * [Identifying Application State](http://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
 * [Securing the Web](https://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
 * [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
+* [Unsanctioned Web Tracking](https://www.w3.org/2001/tag/doc/unsanctioned-tracking/) - 17 July 2015
 
 
 ## Draft Findings
