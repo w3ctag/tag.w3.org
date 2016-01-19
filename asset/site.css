@@ -21,11 +21,10 @@ body {
   padding-right: 15px;
 }
 .navbar-fixed-top {
-    background-image: url(w3c.png);
-    background-position: 50% 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-  background-color: rgba(32,32,32,0.8);
+  background-position: 50% 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #044a81;
 }
 .navbar-default .navbar-nav>li>a {
   color: white;
