@@ -1,6 +1,10 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
 body {
   margin-top: 75px;
-  margin-bottom: 2em;
+  margin-bottom: 40px;
   height: 100%;
 }
 *[id]:before { 
@@ -32,15 +36,16 @@ body {
 .navbar-default .navbar-brand {
   color: white;
 }
-.disclaimer {
-  font-size: smaller;
-  margin: 0;
-  padding-top: .25em;
-  width: 100%;
-  text-align: center;
-  display: block;
-  position: fixed;
+.footer {
+  position: absolute;
   bottom: 0;
+  width: 100%;
+  height: 40px;
+  
+  font-size: smaller;
+  width: 100%;
+  padding-top: 1em;
+  text-align: center;
   color: #004c82;
+  */
 }
-
