@@ -15,8 +15,19 @@
       <div class="container">
 
         <div class="page-header">  
-          <h1>{{ page.title }}</h1>
+          <h1>
+            {{ page.title }}
+            {% if page.subtitle %}
+              <small>{{ page.subtitle }}</small>
+            {% endif %}
+          </h1>
         </div>
+
+        {% if page.lead %}
+        <div class="lead">
+          <p>{{ page.lead }}</p>
+        </div>
+        {% endif %}
 
         {{ content }}
 

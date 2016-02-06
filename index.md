@@ -13,7 +13,7 @@ title: W3C Technical Architecture Group
 
 <p>We collaborate with engineers and Working Groups to give early feedback about proposed and ongoing work on Web-related standards.</p>
 
-<p>If you'd like to work with us, see our guide to <a href="/workmode/">Working with the TAG</a> and list of <a href="https://github.com/w3ctag/spec-reviews/issues">currently open spec reviews</a>.</p>
+<p>Find out how in <a href="/workmode/">Working with the TAG</a>.</p>
 
 
 </div>
@@ -25,7 +25,7 @@ title: W3C Technical Architecture Group
 
 <p>The next TAG face-to-face meeting is 29-31 March in London (invite only).</p>
 
-<p>Agendas and minutes are available in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
+<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
 
 </div>
 <div class="col-sm-4">

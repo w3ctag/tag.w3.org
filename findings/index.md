@@ -1,9 +1,9 @@
 ---
 layout: page
 title: TAG Findings
+lead: Findings are short documents that cover a specific issue in the Web architecture. 
 ---
 
-TAG Findings are short documents that cover a specific issue in the Web architecture. 
 
 ### Approved Findings
 
