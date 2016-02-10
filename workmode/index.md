@@ -11,7 +11,7 @@ We will review any Web-related specification brought to us for architectural iss
 Before you open a review, it may be helpful to have a look at:
 
 * [API Design Principles](https://w3ctag.github.io/design-principles/)
-* [Writing Promise-Using Specifications](https://w3ctag.github.io/design-principles/)
+* [Writing Promise-Using Specifications](http://www.w3.org/2001/tag/doc/promises-guide)
 * [Privacy and Security Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/)
 
 To open a review issue, see our [specification reviews repository](https://github.com/w3ctag/spec-reviews).
