@@ -1,6 +1,10 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
 body {
   margin-top: 75px;
-  margin-bottom: 2em;
+  margin-bottom: 40px;
   height: 100%;
 }
 *[id]:before { 
@@ -21,11 +25,10 @@ body {
   padding-right: 15px;
 }
 .navbar-fixed-top {
-    background-image: url(w3c.png);
-    background-position: 50% 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-  background-color: rgba(32,32,32,0.8);
+  background-position: 50% 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #044a81;
 }
 .navbar-default .navbar-nav>li>a {
   color: white;
@@ -33,16 +36,16 @@ body {
 .navbar-default .navbar-brand {
   color: white;
 }
-.disclaimer {
-  font-size: smaller;
-  margin: 0;
-  padding-top: .25em;
-  width: 100%;
-  text-align: center;
-  display: block;
-  position: fixed;
+.footer {
+  position: absolute;
   bottom: 0;
-  background-color: #004c82;
-  color: white;
+  width: 100%;
+  height: 40px;
+  
+  font-size: smaller;
+  width: 100%;
+  padding-top: 1em;
+  text-align: center;
+  color: #004c82;
+  */
 }
-

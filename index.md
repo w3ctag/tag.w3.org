@@ -1,38 +1,41 @@
 ---
 layout: front
-title: W3C TAG Workspace
+title: W3C Technical Architecture Group
 ---
 
-# W3C TAG Workspace
-
-The Technical Architecture Group ("TAG") of the [W3C](http://www.w3.org/) is responsible for the security, sanity, and layering of the overall web platform. The TAG isn't attached to any particular vendor or working group. It is and independent body composed of engineers elected by the membership of the W3C. It works to safeguard and extend the architecture of the web through coordination, collaboration, and review. The TAG includes experts in networking, security, JavaScript, language design, layout, DOM, data (including linked-data), and standards process.
-
-Engineers and Working Groups are encouraged to reach out to the TAG for early collaborative feedback about proposed or ongoing work that will eventually become part of a W3C standard.
-
-This page tracks TAG activities and work items; for more information about us, see [What is the TAG?](http://www.w3.org/2001/tag/)
 
 
-## TAG Specification Reviews
 
-As part of our regular work, we review W3C and other Web-related specifications. See the [spec reviews repo](https://github.com/w3ctag/spec-reviews).
+<div class="row">
+<div class="col-sm-4">
 
+<h2><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Working With Us</h2>
 
-##  TAG Findings
+<p>We collaborate with engineers and Working Groups to give early feedback about proposed and ongoing work on Web-related standards.</p>
 
-TAG "findings" are statements about the architecture of the Web. See the [complete listing of published findings](/findings/).
-
-
-## TAG-Driven Specifications
-
-The TAG also incubates specifications that it believes are important, with the expectation that a Working Group will assume control of them. The TAG is currently incubating:
-
-* [Packaging on the Web](https://w3ctag.github.io/packaging-on-the-web/)
-* [Capability URLs](https://w3ctag.github.io/capability-urls/)
+<p>Find out how in <a href="/workmode/">Working with the TAG</a>.</p>
 
 
-## Documentation
+</div>
+<div class="col-sm-4">
+  
+<h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-Finally, we also produce various bits of documentation, including:
+<p>We regularly hold developer meetups and "Meet the TAG" events; our next event will be announced shortly.</p>
 
-* [Promises Guide](http://www.w3.org/2001/tag/doc/promises-guide)
-* [Extensible Web Report Card](https://extensiblewebreportcard.org/)
+<p>The next TAG face-to-face meeting is 29-31 March in London (invite only).</p>
+
+<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
+
+</div>
+<div class="col-sm-4">
+
+<h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Publications</h2>
+
+<p><a href="https://www.w3.org/TR/webarch/">The Architecture of the World-Wide Web, Volume One</a> discusses the core design components of the Web.</p>
+
+<p><a href="/findings/">TAG Findings</a> are shorter statements about specific architectural issues.</p>
+
+</div>
+</div>
+

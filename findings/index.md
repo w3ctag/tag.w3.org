@@ -1,22 +1,13 @@
 ---
 layout: page
 title: TAG Findings
+lead: Findings are short documents that cover a specific issue in the Web architecture. 
 ---
 
-At its 4 Nov 2002 teleconference, the TAG agreed to adopt the following policy for managing findings.
 
-A finding draft should be treated like a W3C technical report:
+### Approved Findings
 
-* After announcement of a draft, we don't modify it.
-* Each draft has a latest/this version URI and links to the previous version.
-* The status section of a finding draft indicates whether the document is a draft/for review in light of TAG consensus/ approved by the TAG.
-
-Having approved a finding:
-
-* For minor changes thereafter, we continue to publish updates using the same "latest version URI" (i.e., it remains part of the same document series). It is possible for the latest version of the series to be "not yet approved". That should be a temporary state, however. Findings in an intermediate state should refer to the previous approved version.
-* For major changes, we can start a new series (with a different "latest version URI"). If we start a new series, the new series should explain its relation to the old one (e.g., whether the new series supersedes the old series).
-
-## Approved Findings
+_The following findings reflect the current position of the TAG._
 
 * [Mapping between URIs and Internet media types](http://www.w3.org/2001/tag/2002/01-uriMediaType-9) - 27 May 2002
 * [Consistency of Formatting Property Names, Values, and Semantics](http://www.w3.org/2001/tag/doc/formatting-properties.html) - 25 Jul 2002
@@ -38,7 +29,9 @@ Having approved a finding:
 * [Unsanctioned Web Tracking](https://www.w3.org/2001/tag/doc/unsanctioned-tracking/) - 17 July 2015
 
 
-## Draft Findings
+### Draft Findings
+
+_The following findings are works-in-progress._
 
 * [Passwords in the Clear](http://www.w3.org/2001/tag/doc/passwordsInTheClear-52)
 * [Abstract Component References](http://www.w3.org/2001/tag/doc/abstractComponentRefs.html)
@@ -53,6 +46,26 @@ Having approved a finding:
 * [Usage Patterns For Client-Side URL parameters](http://www.w3.org/TR/hash-in-uri/)
 
 
-## Archived Findings
+### Archived Findings
+
+_The following findings are not currently being considered for publication by the TAG._
 
 * [Separation of semantic and presentational markup, to the extent possible, is architecturally sound](http://www.w3.org/2001/tag/doc/contentPresentation-26.html)
+
+
+---
+
+
+At its 4 Nov 2002 teleconference, the TAG agreed to adopt the following policy for managing findings.
+
+A finding draft should be treated like a W3C technical report:
+
+* After announcement of a draft, we don't modify it.
+* Each draft has a latest/this version URI and links to the previous version.
+* The status section of a finding draft indicates whether the document is a draft/for review in light of TAG consensus/ approved by the TAG.
+
+Having approved a finding:
+
+* For minor changes thereafter, we continue to publish updates using the same "latest version URI" (i.e., it remains part of the same document series). It is possible for the latest version of the series to be "not yet approved". That should be a temporary state, however. Findings in an intermediate state should refer to the previous approved version.
+* For major changes, we can start a new series (with a different "latest version URI"). If we start a new series, the new series should explain its relation to the old one (e.g., whether the new series supersedes the old series).
+
