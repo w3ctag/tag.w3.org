@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Working with the TAG
-lead: "We'd love to help with your Web-related specification. Here's how."
+lead: "We'd love to help with your Web-related specification. Here’s how."
 ---
 
 ### 1. Specification Reviews
@@ -30,13 +30,13 @@ See the [Extensible Web Summit](https://extensiblewebsummit.org/) site for more 
 
 ### 3. TAG at TPAC
 
-During TPAC, TAG members attend Working Group sessions to help them understand what's going on in different parts of the W3C, and to offer feedback and guidance.
+During TPAC, TAG members attend Working Group sessions to help them understand what’s going on in different parts of the W3C, and to offer feedback and guidance.
 
 You can request that TAG members be present if you think it will help move your discussions forward; depending on the nature of the issue, this might include some or all of the TAG. 
 
-Keep in mind that (like many other people), we're pretty busy during TPAC, so please request such a meeting as early as you can by contacting the TAG chairs.
+Keep in mind that (like many other people), we’re pretty busy during TPAC, so please request such a meeting as early as you can by contacting the TAG chairs.
 
 
 ### 4. The www-tag Mailing List
 
-Issues that aren't related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/). Note that this is also used as a general discussion list for Web architecture, and so if you need a response from the TAG, it's best to get something into the [spec reviews issue tracker](https://github.com/w3ctag/spec-reviews).
+Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/). Note that this is also used as a general discussion list for Web architecture, and so if you need a response from the TAG, it’s best to get something into the [spec reviews issue tracker](https://github.com/w3ctag/spec-reviews).
