@@ -21,7 +21,7 @@ title: W3C Technical Architecture Group
   
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Come [Meet the TAG](https://ti.to/w3c-tag/meetthetag-london-2016) in London on 29 March!</p>
+<p>Come <a href="https://ti.to/w3c-tag/meetthetag-london-2016">Meet the TAG</a> in London on 29 March!</p>
 
 <p>The next TAG face-to-face meeting is 29-31 March in London (invite only).</p>
 
