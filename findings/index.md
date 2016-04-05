@@ -44,6 +44,7 @@ _The following findings are works-in-progress._
 * [State in Web application design](http://www.w3.org/2001/tag/doc/state.html)
 * [Dereferencing HTTP URIs](http://www.w3.org/2001/tag/doc/httpRange-14/2007-08-31/HttpRange-14) - Abandoned in favour of "Cool URIs for the Semantic Web"
 * [Usage Patterns For Client-Side URL parameters](http://www.w3.org/TR/hash-in-uri/)
+* [Good Practices for Capability URLs](https://www.w3.org/TR/capability-urls/)
 
 
 ### Archived Findings
