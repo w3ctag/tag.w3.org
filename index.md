@@ -21,7 +21,7 @@ title: W3C Technical Architecture Group
   
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our next public event is <a href="https://ti.to/bocoup/extensible-web-summit">10 February, 2017 in Boston, MA</a>.</p>
+<p>Our next public event is an <a href="https://ti.to/bocoup/extensible-web-summit">Extensible Web Summit</a> on 10 February, 2017 in Boston, MA.</p>
 
 <p>The next TAG face-to-face meeting is 7-9 February, 2017 in Boston (invite only).</p>
 
