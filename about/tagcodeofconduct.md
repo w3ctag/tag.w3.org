@@ -1,4 +1,4 @@
-## TAG Work Mode
+## TAG Code of conduct
 
 The TAG's primary focus is on the architecture of the World Wide Web, including general technical oversight of the development of the Web platform.
 
@@ -14,8 +14,6 @@ See [our workspace page](https://github.com/w3ctag/) for a list of our current w
 Our work items are tracked and developed in [Github](https://github.com/w3ctag/). If you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github, or fork our work and send us a pull request.
 
 We encourage requests for spec reviews to be posted as [issues to our Spec Reviews repository](https://github.com/w3ctag/spec-reviews/issues). Feedback on specific TAG deliverables should be posted as issues in the appropriate repository where that document is being developed.  Some discussions also take place on the [public mailing list](https://lists.w3.org/Archives/Public/www-tag/).
-
-### TAG Feedback Code of Conduct
 
 Those who participate in discussions in any of our issue trackers or on our public mailing list must understand and adhere to the guidelines below.
 
