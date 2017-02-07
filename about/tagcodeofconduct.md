@@ -13,16 +13,17 @@ See [our workspace page](https://github.com/w3ctag/) for a list of our current w
 
 Our work items are tracked and developed in [Github](https://github.com/w3ctag/). If you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github or, if you feel so inclined, fork our work and send us a pull request.
 
-Technical discussion takes place on the [public mailing list](https://lists.w3.org/Archives/Public/www-tag/). The community is encouraged to pose questions, make proposals for new work and discuss our current work items on this list.
+We encourage requests for spec reviews to be posted as [issues to our Spec Reviews repository](https://github.com/w3ctag/spec-reviews/issues). Feedback on specific TAG deliverables should be posted as issues in the appropriate repository where that document is being developed.
 
-In doing so, we ask that those who participate on the mailing list understand the guidelines below.
+Some discussions takes place on the [public mailing list](https://lists.w3.org/Archives/Public/www-tag/).
 
+In doing so, we ask that those who participate in discussions in any of our issues registers or on our public mailing list understand the guidelines below.
 
-###TAG Public Mailing List Code of Conduct
+###TAG Feedback Code of Conduct
 
-* The primary focus of the www-tag list is the current and potential work items of the TAG.
+* The primary focus of our issues registers and the www-tag list is the current and potential work items of the TAG.
 
-* Conference announcements, software releases, bugs and the like are not appropriate for this list – even if they are related to Web architecture.
+* Conference announcements, software releases, bugs and the like are not appropriate for these fora – even if they are related to Web architecture.
 
 * Likewise, www-tag is not a general Web architecture discussion list.
 
@@ -30,11 +31,12 @@ In doing so, we ask that those who participate on the mailing list understand th
 
 * The TAG determines what work items we adopt and approve; while we appreciate input from the public, we are under no obligation to adopt or approve any idea.
 
-* There is no such thing as “consensus of the TAG list”, since the TAG is not a traditional Working Group; the current members of the TAG solely determine its consensus.
+* There is no such thing as “consensus of the TAG”, since the TAG is not a traditional Working Group; the current members of the TAG solely determine its consensus.
 
 * TAG members will read e-mail on www-tag with best effort, but are under no obligation to respond to messages here.
 
-* Messages on this list are forwarded to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
+* Messages on our mailing list are forwarded to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
 
 * We reserve the right to ban those who persistently post off-topic messages, unsolicited commercial e-mail, those who are disrespectful of others, and those we consider to be “trolls.”
 
+* When opening up issues in any of our repositories, please keep these issues focused and consise.
