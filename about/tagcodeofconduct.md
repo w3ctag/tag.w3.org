@@ -17,13 +17,13 @@ We encourage requests for spec reviews to be posted as [issues to our Spec Revie
 
 Those who participate in discussions in any of our issue trackers or on our public mailing list must understand and adhere to the guidelines below.
 
-* Our issue trackers and the www-tag list are forums for the current and potential work items of the TAG. Conference announcements, software releases, bugs, general Web architecture discussions and the like are not appropriate for these fora – even if they are related to Web architecture.
+* Our issue trackers are forums for the current and potential work items of the TAG. General Web architecture discussions and the like are not appropriate for these fora.  Please send more general discussion messages to our mailing list.
 
 * Some issues may be better handled by a specific Working Group; if this is the case, we will ask for discussion to be moved there.
 
 * The TAG determines what work items we adopt and approve; while we appreciate input from the public, we are under no obligation to adopt or approve any idea.
 
-* TAG members will read mailing list messages with best effort, but are under no obligation to respond.
+* TAG members will make reasonable efforts to read and respond to mailing list messages.
 
 * Messages in mailing lists or trackers may cause notifications to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
 
