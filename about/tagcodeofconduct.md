@@ -27,8 +27,8 @@ Those who participate in discussions in any of our issue trackers or on our publ
 
 * Messages in mailing lists or trackers may cause notifications to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
 
-* Please keep messages focused and concise, be polite and respectful of fellow contributors and TAG members. Understand others' perspectives, be prepared to change your view in response to compelling evidence, and avoid becoming combative, frustrated or passive aggressive.
+* Please keep messages focused and concise, be polite and respectful of fellow contributors and TAG members. Understand others' perspectives, be prepared to change your view in response to compelling evidence, and avoid becoming combative, frustrated or passive aggressive.  TAG members will be respectful of anyone who engages with us, and we expect the same in return.  We are also bound by the [W3C Code of professional ethics](https://github.com/w3ctag/w3ctag.github.io/blob/master/about/tagcodeofconduct.md)
 
 * We reserve the right to ban those who persistently post off-topic messages, unsolicited commercial e-mail, those who are disrespectful of others, and those we consider to be “trolls.”
 
-* TAG conensus positions are arrived at during our [minuted meetings](https://github.com/w3ctag/meetings)
+* TAG consensus positions are arrived at during our [minuted meetings](https://github.com/w3ctag/meetings).
