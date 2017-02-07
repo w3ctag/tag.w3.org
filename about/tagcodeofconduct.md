@@ -33,10 +33,10 @@ In doing so, we ask that those who participate in discussions in any of our issu
 
 * There is no such thing as “consensus of the TAG”, since the TAG is not a traditional Working Group; the current members of the TAG solely determine its consensus.
 
-* TAG members will read e-mail on www-tag with best effort, but are under no obligation to respond to messages here.
+* TAG members will read e-mail on www-tag with best effort, but are under no obligation to respond to messages there.
 
 * Messages on our mailing list are forwarded to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
 
 * We reserve the right to ban those who persistently post off-topic messages, unsolicited commercial e-mail, those who are disrespectful of others, and those we consider to be “trolls.”
 
-* When opening up issues in any of our repositories, please keep these issues focused and consise.
+* When opening up issues in any of our repositories, please keep these issues focused and concise.
