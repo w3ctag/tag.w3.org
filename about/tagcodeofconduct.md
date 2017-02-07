@@ -25,7 +25,7 @@ Those who participate in discussions in any of our issue trackers or on our publ
 
 * The TAG determines what work items we adopt and approve; while we appreciate input from the public, we are under no obligation to adopt or approve any idea.
 
-* TAG members will read messages with best effort, but are under no obligation to respond.
+* TAG members will read mailing list messages with best effort, but are under no obligation to respond.
 
 * Messages in mailing lists or trackers may cause notifications to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
 
