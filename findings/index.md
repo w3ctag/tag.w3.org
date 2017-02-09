@@ -9,6 +9,7 @@ lead: Findings are short documents that cover a specific issue in the Web archit
 
 _The following findings reflect the current position of the TAG._
 
+* [The evergreen Web](https://www.w3.org/2001/tag/doc/evergreen-web/) - 9 February 2017
 * [Polyfills and the evolution of the Web](https://www.w3.org/2001/tag/doc/polyfills/) - 7 February 2017
 * [Unsanctioned Web Tracking](https://www.w3.org/2001/tag/doc/unsanctioned-tracking/) - 17 July 2015
 * [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
