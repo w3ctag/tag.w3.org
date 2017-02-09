@@ -9,24 +9,25 @@ lead: Findings are short documents that cover a specific issue in the Web archit
 
 _The following findings reflect the current position of the TAG._
 
-* [Mapping between URIs and Internet media types](http://www.w3.org/2001/tag/2002/01-uriMediaType-9) - 27 May 2002
-* [Consistency of Formatting Property Names, Values, and Semantics](http://www.w3.org/2001/tag/doc/formatting-properties.html) - 25 Jul 2002
-* ["Deep Linking" in the World Wide Web](http://www.w3.org/2001/tag/doc/deeplinking-20030911) - 11 Sep 2003
-* [Using QNames as Identifiers](http://www.w3.org/2001/tag/doc/qnameids.html) - 17 March 2004
-* [URIs, Addressability, and the use of HTTP GET and POST](http://www.w3.org/2001/tag/doc/whenToUseGet.html) - 21 March 2004
-* [Internet Media Type registration, consistency of use](http://www.w3.org/2001/tag/2004/0430-mime) - 30 April 2004
-* [How should the problem of identifying ID semantics in XML languages be addressed in the absence of a DTD?](http://www.w3.org/2001/tag/doc/xmlIDSemantics-32.html) - 30 November 2004
-* [The Disposition of Names in an XML Namespace](http://www.w3.org/2001/tag/doc/namespaceState.html) - 9 January 2006
-* [The Rule of Least Power](http://www.w3.org/2001/tag/doc/leastPower.html) - 23 February 2006
-* [Authoritative Metadata](http://www.w3.org/2001/tag/doc/mime-respect-20130422) - 22 April 2013
-* [On Linking Alternative Formats To Enable Discovery And Publishing](http://www.w3.org/2001/tag/doc/alternatives-discovery.html) - 1st November 2006
-* [The use of Metadata in URIs](http://www.w3.org/2001/tag/doc/metaDataInURI-31.html) - 2 January 2007
-* [Associating Resources with Namespaces](http://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
-* [The Self-Describing Web](http://www.w3.org/2001/tag/doc/selfDescribingDocuments.html) - 7 February 2009
-* [Identifying Application State](http://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
-* [Securing the Web](https://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
-* [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
+* [Polyfills and the evolution of the Web](https://www.w3.org/2001/tag/doc/polyfills/) - 7 February 2017
 * [Unsanctioned Web Tracking](https://www.w3.org/2001/tag/doc/unsanctioned-tracking/) - 17 July 2015
+* [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
+* [Securing the Web](https://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
+* [Identifying Application State](http://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
+* [The Self-Describing Web](http://www.w3.org/2001/tag/doc/selfDescribingDocuments.html) - 7 February 2009
+* [Associating Resources with Namespaces](http://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
+* [The use of Metadata in URIs](http://www.w3.org/2001/tag/doc/metaDataInURI-31.html) - 2 January 2007
+* [On Linking Alternative Formats To Enable Discovery And Publishing](http://www.w3.org/2001/tag/doc/alternatives-discovery.html) - 1st November 2006
+* [Authoritative Metadata](http://www.w3.org/2001/tag/doc/mime-respect-20130422) - 22 April 2013
+* [The Rule of Least Power](http://www.w3.org/2001/tag/doc/leastPower.html) - 23 February 2006
+* [The Disposition of Names in an XML Namespace](http://www.w3.org/2001/tag/doc/namespaceState.html) - 9 January 2006
+* [How should the problem of identifying ID semantics in XML languages be addressed in the absence of a DTD?](http://www.w3.org/2001/tag/doc/xmlIDSemantics-32.html) - 30 November 2004
+* [Internet Media Type registration, consistency of use](http://www.w3.org/2001/tag/2004/0430-mime) - 30 April 2004
+* [URIs, Addressability, and the use of HTTP GET and POST](http://www.w3.org/2001/tag/doc/whenToUseGet.html) - 21 March 2004
+* [Using QNames as Identifiers](http://www.w3.org/2001/tag/doc/qnameids.html) - 17 March 2004
+* ["Deep Linking" in the World Wide Web](http://www.w3.org/2001/tag/doc/deeplinking-20030911) - 11 Sep 2003
+* [Consistency of Formatting Property Names, Values, and Semantics](http://www.w3.org/2001/tag/doc/formatting-properties.html) - 25 Jul 2002
+* [Mapping between URIs and Internet media types](http://www.w3.org/2001/tag/2002/01-uriMediaType-9) - 27 May 2002
 
 
 ### Draft Findings
