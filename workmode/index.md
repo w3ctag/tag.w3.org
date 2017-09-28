@@ -10,7 +10,7 @@ The TAG is a service organization. It exists to help ensure that the web makes s
 
 The TAG focuses primarily on providing technical feedback to folks designing APIs and looking to evolve existing designs. That tends to take the form of collaborative specification review. These reviews tend to start with a discussion between TAG members and spec authors, sometimes on a call or face-to-face meeting, and result in feedback to the design in whatever forum works best for the API designer.
 
-The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design reviews repository](https://github.com/w3ctag/design-reviews).
+The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design-reviews repository](https://github.com/w3ctag/design-reviews).
 
 It may also be helpful to have a look at:
 
@@ -41,4 +41,4 @@ Keep in mind that (like many other people), we’re pretty busy during TPAC, so 
 
 ### 4. The www-tag Mailing List
 
-Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/). Note that this is also used as a general discussion list for Web architecture, and so if you need a response from the TAG, it’s best to get something into the [spec reviews issue tracker](https://github.com/w3ctag/spec-reviews).
+Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/). Note that this is also used as a general discussion list for Web architecture, and so if you need a response from the TAG, it’s best to get something into the [design-reviews issue tracker](https://github.com/w3ctag/design-reviews).
