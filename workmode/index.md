@@ -10,12 +10,12 @@ The TAG is a service organization. It exists to help ensure that the web makes s
 
 The TAG focuses primarily on providing technical feedback to folks designing APIs and looking to evolve existing designs. That tends to take the form of collaborative specification review. These reviews tend to start with a discussion between TAG members and spec authors, sometimes on a call or face-to-face meeting, and result in feedback to the design in whatever forum works best for the API designer.
 
-The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [specification reviews repository](https://github.com/w3ctag/spec-reviews).
+The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design reviews repository](https://github.com/w3ctag/design-reviews).
 
 It may also be helpful to have a look at:
 
 * [API Design Principles](https://w3ctag.github.io/design-principles/)
-* [Writing Promise-Using Specifications](http://www.w3.org/2001/tag/doc/promises-guide)
+* [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
 * [Privacy and Security Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/)
 
 
