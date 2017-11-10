@@ -23,7 +23,7 @@ title: W3C Technical Architecture Group
 
 <p>Our most recent public event was an <a href="https://ti.to/w3c-tag/meet-the-tag-london-july-2017">Meet the TAG</a> event on 26 July, 2017 in London.  Our next public event has not yet been announced.</p>
 
-<p>The next TAG face-to-face meeting is 26-28 September, 2017 in Nice (invite only).</p>
+<p>The next TAG face-to-face meeting is 31 January - 2 February, 2018 in London (invite only).</p>
 
 <p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
 
