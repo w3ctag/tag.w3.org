@@ -17,7 +17,7 @@ It may also be helpful to have a look at:
 * [API Design Principles](https://w3ctag.github.io/design-principles/)
 * [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
 * [Privacy and Security Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/)
-
+* [What is an Explainer?](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md)
 
 A positive review doesn't mean that a spec is "supported" by the TAG or that the design is free of issues, but hopefully it'll help improve the designs of APIs that request feedback.
 
