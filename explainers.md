@@ -65,11 +65,13 @@ How will the web be better when this feature launches? And who will it help?
 ### Non-goals
 
 You’re not going to solve every problem so enumerate the attractive, nearby problems that are out of scope for this effort. This may include details on the tradeoffs made due to architectural limitations made due to implementation details, and features left out either due to interoperability concerns or other hurdles, and how you plan to improve on this. This can often be the single most important part of your document, so give it careful thought.
+
 ## Getting started / example code
 
 Provide a terse example for the most common use case of the feature.  If you need to show how to get the feature set up (initialized, or using permissions, etc.), include that too
 
-    <here>
+<here>
+
 ## Key scenarios
 
 Next, discuss the key scenarios which move beyond the most canonical example, showing how they are addressed using example code:
