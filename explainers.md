@@ -53,7 +53,7 @@ Explainer Template:
 
 # Web Frobulators Explained
 
-<last update date>
+[last update date]
 
 ## What’s all this then?
 
@@ -71,7 +71,7 @@ You’re not going to solve every problem so enumerate the attractive, nearby pr
 
 Provide a terse example for the most common use case of the feature.  If you need to show how to get the feature set up (initialized, or using permissions, etc.), include that too
 
-<here>
+[here]
 
 ## Key scenarios
 
@@ -81,13 +81,13 @@ Next, discuss the key scenarios which move beyond the most canonical example, sh
 
 Outline the scenario, then provide:
 
-<sample code that demonstrates the feature>
+[sample code that demonstrates the feature]
 
 ### Scenario 2
 
 Outline the scenario, then provide:
 
-<sample code that demonstrates the feature>
+[sample code that demonstrates the feature]
 
 …
 ## Detailed design discussion
@@ -96,7 +96,7 @@ Outline the scenario, then provide:
 
 Talk through the tradeoffs in coming to the specific design point you want to make, hopefully:
 
-<illustrated with example code>
+[illustrated with example code]
 
 …
 
