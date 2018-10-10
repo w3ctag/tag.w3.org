@@ -21,9 +21,9 @@ title: W3C Technical Architecture Group
   
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our <a href="https://ti.to/w3c-tag/meet-the-tag-seattle">next public event</a> is scheduled for 26 July 2018 (a Thursday evening, 6pm-9pm) in Seattle.</p>
+<p>Our <a href="https://ti.to/w3c-tag/meet-the-tag-paris">next public event</a> is scheduled for 29 October 2018 (a Monday evening, 18h00 to 20h00) in Paris.</p>
 
-<p>The next TAG face-to-face meeting is 24-26 July 2018 in Seattle (invite only).</p>
+<p>The next TAG face-to-face meeting is 29-31 October 2018 in Paris (invite only).</p>
 
 <p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
 
