@@ -15,6 +15,9 @@ _The following findings reflect the current position of the TAG._
 * [Unsanctioned Web Tracking](https://www.w3.org/2001/tag/doc/unsanctioned-tracking/) - 17 July 2015
 * [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
 * [Securing the Web](https://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
+* [Good Practices for Capability URLs](http://w3ctag.github.io/capability-urls/) - October 2014
+* [Writing Promise-Using Specifications](http://www.w3.org/2001/tag/doc/promises-guide) - October 2014
+* [Authoritative Metadata](http://www.w3.org/2001/tag/doc/mime-respect-20130422) - 22 April 2013
 * [Identifying Application State](http://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
 * [The Self-Describing Web](http://www.w3.org/2001/tag/doc/selfDescribingDocuments.html) - 7 February 2009
 * [Associating Resources with Namespaces](http://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
