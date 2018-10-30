@@ -12,6 +12,14 @@ While specs are intended for implementers, the explainer should address a web de
 
 Historically you may have written a “requirements” document; a good explainer can subsume that by focusing on user needs.
 
+Some questions you should keep in mind when thinking about user needs:
+
+* who are the end users of a site or service that would emply this technology (the actual people who use the thing)?
+* what are they trying to do?
+* how do they currently do it (for example, what services or channels they use)?
+* what are the problems or frustrations they experience?
+* what users need from your service to achieve their goal?
+
 The explainer can change more quickly than a spec can. This is important because your design will change. Changing an explainer to accommodate a design change is much less work than changing a spec and increases your agility.
 
 Web developers can get excited about Explainers! Unlike specs, they include terse descriptions and jargon-free text that allows web developers (your most important constituency) to get excited by your proposal. After the spec is written the explainer can become a reference point for developers and an aid to doc writers.
