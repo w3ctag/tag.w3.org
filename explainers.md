@@ -16,9 +16,8 @@ Some questions you should keep in mind when thinking about user needs:
 
 * who are the end users of a site or service that would emply this technology (the actual people who use the thing)?
 * what are they trying to do?
-* how do they currently do it (for example, what services or channels they use)?
-* what are the problems or frustrations they experience?
-* what users need from your service to achieve their goal?
+* how are these needs currently met?
+* what are the problems or frustrations users experience that will be fixed by this new technology?
 
 The explainer can change more quickly than a spec can. This is important because your design will change. Changing an explainer to accommodate a design change is much less work than changing a spec and increases your agility.
 
