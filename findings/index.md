@@ -9,13 +9,14 @@ lead: Findings are short documents that cover a specific issue in the Web archit
 
 _The following findings reflect the current position of the TAG._
 
+* [Guidelines for creating web platform compatible components](https://www.w3.org/2001/tag/doc/webcomponents-design-guidelines/) - 29 October 2018
 * [Distributed and syndicated content](https://www.w3.org/2001/tag/doc/distributed-content/) - 27 June 2017
 * [The evergreen Web](https://www.w3.org/2001/tag/doc/evergreen-web/) - 9 February 2017
 * [Polyfills and the evolution of the Web](https://www.w3.org/2001/tag/doc/polyfills/) - 7 February 2017
 * [Unsanctioned Web Tracking](https://www.w3.org/2001/tag/doc/unsanctioned-tracking/) - 17 July 2015
 * [End-to-End Encryption and the Web](https://www.w3.org/2001/tag/doc/encryption-finding/) - 16 July 2015
 * [Securing the Web](https://www.w3.org/2001/tag/doc/web-https) - 22 Jan 2015
-* [Good Practices for Capability URLs](https://w3ctag.github.io/capability-urls/) - October 2014
+* [Good Practices for Capability URLs](https://www.w3.org/2001/tag/doc/capability-urls/) - October 2014
 * [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide) - October 2014
 * [Authoritative Metadata](https://www.w3.org/2001/tag/doc/mime-respect-20130422) - 22 April 2013
 * [Identifying Application State](https://www.w3.org/2001/tag/doc/IdentifyingApplicationState) - 1 December 2011
@@ -50,7 +51,6 @@ _The following findings are works-in-progress._
 * [State in Web application design](https://www.w3.org/2001/tag/doc/state.html)
 * [Dereferencing HTTP URIs](https://www.w3.org/2001/tag/doc/httpRange-14/2007-08-31/HttpRange-14) - Abandoned in favour of "Cool URIs for the Semantic Web"
 * [Usage Patterns For Client-Side URL parameters](https://www.w3.org/TR/hash-in-uri/)
-* [Good Practices for Capability URLs](https://www.w3.org/TR/capability-urls/)
 
 
 ### Archived Findings
