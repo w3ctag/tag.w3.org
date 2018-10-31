@@ -1,5 +1,4 @@
-## Status: PUBLIC
-## Last Updated: 2017-07-26
+# Explainers
 
 ## Introduction:
 
