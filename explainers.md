@@ -1,118 +1,157 @@
 # Explainers
 
-## Introduction:
+## Introduction
 
-Your explainer is a living document that you should consider a design-doc in the early phase of design. As you iterate on the early design, the explainer content may change drastically, which is a key reason to start the design process with an explainer and not a formal spec document. 
+Your explainer is a living document that describes the current state of your proposed feature.
 
-While specs are intended for implementers, the explainer should address a web developer audience. The explainer should outline what need the design meets rather than dwelling on algorithms and minutia.
+In the early phases of design, this may be as simple as a collection of goals and a sketch of one possible solution.
 
-## Benefits of Explainers:
+As your work progresses, the explainer can help facilitate multi-stakeholder discussion and consensus-building by making clear:
 
-Historically you may have written a “requirements” document; a good explainer can subsume that by focusing on user needs.
+- the user-facing problem which needs to be solved
+- the proposed approach to solving the problem
+- the way the proposed solution may be used in practice to address the intended use cases, via worked example code
+- any other venues (such as mailing list, pull requests or issue threads external to the location of the explainer) where the reader may catch up on discussions regarding the proposal
+- the alternatives which have already been considered and why they were not chosen
+- accessibility, security and privacy implications which have been considered as part of the design process
 
-Some questions you should keep in mind when thinking about user needs:
+Once there is a reasonable amount of consensus on the approach and high-level design,
+the explainer can be used to guide spec writing,
+by serving as a high-level overview of the feature to be specified and the user need it serves.
 
-* who are the end users of a site or service that would emply this technology (the actual people who use the thing)?
-* what are they trying to do?
-* how are these needs currently met?
-* what are the problems or frustrations users experience that will be fixed by this new technology?
+Once the spec is written and the feature is shipped,
+the explainer can then provide a basis for author-facing documentation of the new feature.
 
-The explainer can change more quickly than a spec can. This is important because your design will change. Changing an explainer to accommodate a design change is much less work than changing a spec and increases your agility.
+## Examples of good explainers
 
-Web developers can get excited about Explainers! Unlike specs, they include terse descriptions and jargon-free text that allows web developers (your most important constituency) to get excited by your proposal. After the spec is written the explainer can become a reference point for developers and an aid to doc writers.
+- [Service Workers](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
+- [`paymentRequest`](https://github.com/zkoch/paymentrequest/blob/gh-pages/docs/explainer.md)
+- [Web Share](https://github.com/WICG/web-share/blob/master/docs/explainer.md)
+- https://github.com/WICG/ViewportAPI/blob/gh-pages/README.md  
+  https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md  
+  https://github.com/WICG/IntersectionObserver/blob/gh-pages/explainer.md (although this one includes IDL, which explainers should not)
 
-Writing down your key use cases helps to focus the design process and minimise scope-creep.  It also helps readers understand what problem you’re solving.  
+## Tips for effective explainers:
 
-It is a useful companion even after you have a formal spec. When you eventually add a formal spec, your explainer shifts in value: instead of helping to organize your design thoughts, it helps others understand key points of the design, including spec reviewers and interested web developers. Long-term maintenance of explainers is encouraged.
+Since your explainer may be referred to by a range of stakeholders,
+not all of whom are likely to be highly motivated to spend a lot of time on it,
+you should always try to keep your explainer as brief and easy to read as possible.
 
-Explainers help you to avoid premature specificity. Spec text forces you to write down fine-grained details well before you're ready to commit to them. 
+- Be clear about the **end-user** need, first and foremost.
+- Keep your paragraphs and sentences short.
+  - Paragraphs should contain one idea only, and likely shouldn't be more than a couple of sentences.
+- Keep the language as simple as possible.
+  - Not all readers will always be fluent English speakers. Even if they are, they may be reading your explainer while doing three other things, with a headache and a looming deadline. Be kind to your readers, since you probably want them to be kind to you.
+- If you can and if it serves the document, be generous with diagrams.
+  - A picture is, for most readers, much easier to process than a slab of text.
+  - Always provide text alternatives for readers who may not be able to see images.
+- As your design evolves, keep track of alternatives which have been considered.
+  - You undoubtedly had reasons not to choose those alternatives, but reviewers and other stakeholders may not have that context.
 
-Web Platform work often suffers from premature ossification. Receiving too few iterations on a design is one of the primary reasons features fail. Specs are artifacts of finished, complete designs. Explainers are artifacts of the early and mid-stage design process and are designed to be light-weight enough to enable (rather than prevent) wholesale iteration. If your design is new-ish (hasn't shipped and isn't fully implemented), prefer an Explainer to a formal spec document.
+## Explainer Template:
 
-## Content:
+# [Title]
 
-Like other design docs, your explainer should:
+## Authors:
 
-* Introduce the problem and explain the motivation for solving it
-* State assumptions
-* Provide evidence or argument that this problem is important to solve
-* List goals
-* List explicit non-goals
-* Discuss key use-cases - it has to cover the motivating examples you’re considering in your design
-* Propose a solution
-* Provide example code that ties together problem, proposed solution and how it enables the listed use-cases
-* Discuss alternative designs that were considered (or may be explored in future iterations) with pros/cons. You might want to include the rationale for any controversial decisions you made, for example in tradeoffs between functionality and security..
+- [Author 1]
+- [Author 2]
 
-Example code is your primary mechanism for demonstrating features of the API or design. Avoid IDL in explainers.
+## Table of Contents [if the explainer is longer than one printed page]
 
-Examples:
+[You can generate a Table of Contents for markdown documents using a tool like [doctoc](https://github.com/thlorenz/doctoc).]
 
-https://github.com/w3c/ServiceWorker/blob/master/explainer.md  
-https://github.com/zkoch/paymentrequest/blob/gh-pages/docs/explainer.md  
-https://github.com/WICG/web-share/blob/master/docs/explainer.md  
-https://github.com/WICG/ViewportAPI/blob/gh-pages/README.md  
-https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md  
-https://github.com/WICG/IntersectionObserver/blob/gh-pages/explainer.md (although this one includes IDL, which explainers should not)  
+## Introduction
 
-Explainer Template:
+[The "executive summary" or "abstract".
+Explain in a few sentences what the goals of the project are,
+and a brief overview of how the solution works.
+This should be no more than 1-2 paragraphs.]
 
-# Web Frobulators Explained
+## Goals [or Motivating Use Cases, or Scenarios]
 
-[last update date]
+[What is the **end-user need** which this project aims to address?]
 
-## What’s all this then?
+## Non-goals
 
-A brief, 4-5 paragraph explanation of the feature’s value. Outline what the feature does and how it accomplishes those goals (in prose). If your feature creates UI, this is a great place to show mocks and user flows.
+[If there are "adjacent" goals which may appear to be in scope but aren't,
+enumerate them here. This section may be fleshed out as your design progresses and you encounter necessary technical and other trade-offs.]
 
-### Goals
+## [API 1]
 
-How will the web be better when this feature launches? And who will it help?
+[For each related element of the proposed solution - be it an additional JS method, a new object, a new element, a new concept etc., create a section which briefly describes it.]
 
-### Non-goals
+```js
+// Provide example code, not IDL, demonstrating the design of the feature.
+```
 
-You’re not going to solve every problem so enumerate the attractive, nearby problems that are out of scope for this effort. This may include details on the tradeoffs made due to architectural limitations made due to implementation details, and features left out either due to interoperability concerns or other hurdles, and how you plan to improve on this. This can often be the single most important part of your document, so give it careful thought.
+[If you need to show how to get the feature set up (initialized, or using permissions, etc.), include that too.]
 
-## Getting started / example code
+[If this is already specced, link to the relevant section of the spec.]
 
-Provide a terse example for the most common use case of the feature.  If you need to show how to get the feature set up (initialized, or using permissions, etc.), include that too
+[If spec work is in progress, link to the PR or draft of the spec.]
 
-[here]
+## [API 2]
+
+[etc.]
 
 ## Key scenarios
 
-Next, discuss the key scenarios which move beyond the most canonical example, showing how they are addressed using example code:
+[Next, discuss the key end-user scenarios, showing how the author may address them:]
 
 ### Scenario 1
 
-Outline the scenario, then provide:
+[Description of the end-user scenario]
 
-[sample code that demonstrates the feature]
+```js
+// Sample code demonstrating how to use this feature to address that scenario.
+```
 
 ### Scenario 2
 
-Outline the scenario, then provide:
+[etc.]
 
-[sample code that demonstrates the feature]
-
-…
 ## Detailed design discussion
 
-### Tricky design choice #1
+### [Tricky design choice #1]
 
-Talk through the tradeoffs in coming to the specific design point you want to make, hopefully:
+[Talk through the tradeoffs in coming to the specific design point you want to make, hopefully...]
 
-[illustrated with example code]
+```js
+// Illustrated with example code.
+```
 
-…
+[This may be an open question,
+in which case you should link to any active discussion threads.]
 
-### Tricky design choice N
+### [Tricky design choice 2]
 
-…
+[etc.]
 
 ## Considered alternatives
-One of the most important things you can do in your design process is to catalog the set of roads not taken. As you iterate on your design, you may find that major choices in your approach or API style will be revisited and enumerating the full space of alternatives can help you apply one (or more) of them later, may serve as a “graveyard” for u-turns in your design, and can give reviewers and potential users confidence that you’ve got your ducks in a row.
+
+[This should include as many alternatives as you can,
+from high level architectural decisions down to alternative naming choices.]
+
+### [Alternative 1]
+
+[Describe an alternative which was considered,
+and why you decided against it.]
+
+### [Alternative 2]
+
+[etc.]
+
+## Stakeholder Feedback / Opposition
+
+[Implementors and other stakeholders may already have publicly stated positions on this work. If you can, list them here with links to evidence as appropriate.]
+
+- [Implementor A] : Positive
+- [Stakeholder B] : No signals
+- [Implementor C] : Negative
+
+[If appropriate, explain reasons in the event other implementors have expressed concerns.]
 
 ## References & acknowledgements
 
 Your design will change and be informed by many people; acknowledge them in an ongoing way! It helps build community and, as we only get by through the contributions of many, is only fair.
-
