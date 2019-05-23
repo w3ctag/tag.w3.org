@@ -21,9 +21,9 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our <a href="https://ti.to/w3c-tag/meet-the-tag-reykjavik">next public event</a> is scheduled for 21 May 2019 (a Tuesday evening) at 18:30 in Reykjavík, Iceland.</p>
+<p>Our next public event is not currently scheduled.</p>
 
-<p>The next TAG face-to-face meeting is 21-23 May 2019 in Reykjavík (invite only).</p>
+<p>The next TAG face-to-face meeting is 10-12 September 2019 in Tokyo (invite only).</p>
 
 <p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
 
