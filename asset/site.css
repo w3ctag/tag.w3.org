@@ -14,28 +14,6 @@ body {
   height: 75px; 
   visibility: hidden; 
 }
-.navbar-left {
-  float: left ! important;
-}
-.navbar-left img {
-  height: 50px;
-  padding: 0;
-}
-.navbar-right {
-  padding-right: 15px;
-}
-.navbar-fixed-top {
-  background-position: 50% 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-color: #044a81;
-}
-.navbar-default .navbar-nav>li>a {
-  color: white;
-}
-.navbar-default .navbar-brand {
-  color: white;
-}
 .footer {
   position: absolute;
   bottom: 0;
@@ -48,4 +26,7 @@ body {
   text-align: center;
   color: #004c82;
   */
+}
+.twtr-icon {
+  fill: white;
 }
