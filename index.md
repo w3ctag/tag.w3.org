@@ -36,6 +36,8 @@ title: W3C Technical Architecture Group
 
 <p><a href="/findings/">TAG Findings</a> are shorter statements about specific architectural issues.</p>
 
+<p>The TAG maintains a document with <a href="https://w3ctag.github.io/design-principles/">Client-side API Design Principles</a>.</p>
+
 </div>
 </div>
 
