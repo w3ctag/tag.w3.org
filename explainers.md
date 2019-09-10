@@ -38,12 +38,16 @@ not all of whom are likely to be highly motivated to spend a lot of time on it,
 you should always try to keep your explainer as brief and easy to read as possible.
 
 - Be clear about the **end-user** need, first and foremost.
-- Keep your paragraphs and sentences short.
-  - Paragraphs should contain one idea only, and likely shouldn't be more than a couple of sentences.
+- Keep it as brief and "skimmable" as you possibly can.
+  - Writing succinctly is harder than writing at length. You might need to write a first draft, and then make one or more editing passes to cut down word count. This is a time investment, but will save time and energy for your readers.
+  - Use bulleted lists where possible.
+  - Draw attention to key points using **bold**. 
+  - Keep your paragraphs and sentences short. Paragraphs should contain one idea only, and likely shouldn't be more than a couple of sentences. Break up large paragraphs as much as possible.
 - Keep the language as simple as possible.
   - Not all readers will always be fluent English speakers.
   - Even if they are, they may be reading your explainer while doing three other things, with a headache and a looming deadline.
   - Be kind to your readers, since you probably want them to be kind to you.
+- Wherever possible, use code examples rather than prose to "show" rather than "tell" your design.
 - If you can and if it serves the document, be generous with diagrams.
   - A picture is, for most readers, much easier to process than a slab of text.
   - Always provide text alternatives for readers who may not be able to see images.
