@@ -29,7 +29,7 @@ the explainer can then provide a basis for author-facing documentation of the ne
 - [Web Share](https://github.com/WICG/web-share/blob/master/docs/explainer.md)
 - [Viewport API](https://github.com/WICG/ViewportAPI/blob/gh-pages/README.md)
 - [`EventListenerOptions`](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md)
-- [Intersection Observer](https://github.com/WICG/IntersectionObserver/blob/gh-pages/explainer.md) (although this one includes IDL, which explainers should not)
+- [Intersection Observer](https://github.com/w3c/IntersectionObserver/blob/master/explainer.md) (although this one includes IDL, which explainers should not)
 
 ## Tips for effective explainers:
 
