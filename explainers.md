@@ -55,6 +55,7 @@ you should always try to keep your explainer as brief and easy to read as possib
     - More complex images may require a longer description in the form of a footnote or appendix to the document, linked immediately after the image, with a back-link to return to the section containing the image.
 - As your design evolves, keep track of and make a note of alternatives which have been considered, and your reasons for not choosing them.
   - You undoubtedly had reasons not to choose those alternatives, but reviewers and other stakeholders may not have that context. Avoid redundant "what about [already-ruled out alternative]" type questions by explaining why those alternatives were ruled out.
+  - Direct readers to the appropriate participation forums, issue tracker, etc.
 
 ## Explainer Template:
 
@@ -65,6 +66,10 @@ you should always try to keep your explainer as brief and easy to read as possib
 - [Author 1]
 - [Author 2]
 - [etc.]
+
+## Participate
+- [Issue tracker]
+- [Discussion forum]
 
 ## Table of Contents [if the explainer is longer than one printed page]
 
