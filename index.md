@@ -23,7 +23,7 @@ title: W3C Technical Architecture Group
 
 <p>Our next public event is not currently scheduled.</p>
 
-<p>The next TAG face-to-face meeting is 10-12 September 2019 in Tokyo (invite only).</p>
+<p>The next TAG face-to-face meeting is 3-5 December 2019 in Cupertino, California (invite only).</p>
 
 <p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
 
