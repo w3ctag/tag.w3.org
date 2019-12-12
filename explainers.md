@@ -75,6 +75,9 @@ you should always try to keep your explainer as brief and easy to read as possib
 
 [You can generate a Table of Contents for markdown documents using a tool like [doctoc](https://github.com/thlorenz/doctoc).]
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Introduction
 
 [The "executive summary" or "abstract".
