@@ -21,7 +21,7 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our next public event is not currently scheduled.</p>
+<p>Our next public event is [a meetup in Wellington, New Zealand](https://events.humanitix.co.nz/w3c-technical-architecture-group), on Wednesday, March 4, 2020, at 5:30pm.</p>
 
 <p>The next TAG face-to-face meeting is 3-5 March 2020 in Wellington, New Zealand (invite only).</p>
 
