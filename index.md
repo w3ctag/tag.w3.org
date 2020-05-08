@@ -32,11 +32,13 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Publications</h2>
 
-<p><a href="https://www.w3.org/TR/webarch/">The Architecture of the World-Wide Web, Volume One</a> discusses the core design components of the Web.</p>
+<p><a href="https://www.w3.org/TR/security-privacy-questionnaire/">Security and Privacy Self-Review Questionnaire</a></p>
+
+<p>The TAG maintains a document with <a href="https://w3ctag.github.io/design-principles/">Client-side API Design Principles</a>.</p>
 
 <p><a href="/findings/">TAG Findings</a> are shorter statements about specific architectural issues.</p>
 
-<p>The TAG maintains a document with <a href="https://w3ctag.github.io/design-principles/">Client-side API Design Principles</a>.</p>
+<p><a href="https://www.w3.org/TR/webarch/">The Architecture of the World-Wide Web, Volume One</a> discusses the core design components of the Web.</p>
 
 </div>
 </div>
