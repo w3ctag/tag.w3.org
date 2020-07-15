@@ -30,6 +30,7 @@ the explainer can then provide a basis for author-facing documentation of the ne
 - [Viewport API](https://github.com/WICG/ViewportAPI/blob/gh-pages/README.md)
 - [`EventListenerOptions`](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md)
 - [Intersection Observer](https://github.com/w3c/IntersectionObserver/blob/master/explainer.md)
+- [Declarative Shadow DOM](https://github.com/mfreed7/declarative-shadow-dom/blob/master/README.md)
 
 ## Tips for effective explainers:
 
