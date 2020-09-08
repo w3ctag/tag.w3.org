@@ -1,5 +1,9 @@
 # Explainers
 
+## Participate
+- [Explainer Explainer issues](https://github.com/w3ctag/w3ctag.github.io/labels/explainer%20explainer)
+- [GitHub repo](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md)
+
 ## Introduction
 
 Your explainer is a living document that describes the current state of your proposed web platform feature, or collection of features.
