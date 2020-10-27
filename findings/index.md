@@ -10,7 +10,7 @@ lead: Findings are short documents that cover a specific issue in the Web archit
 _The following findings reflect the current position of the TAG._
 
 * [W3C TAG Observations on Private Browsing Modes](https://www.w3.org/2001/tag/doc/private-browsing-modes/) - 5 July 2019
-* [W3C TAG Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/) - 30 May 2019
+* [W3C TAG Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/) - 27 October 2020
 * [Guidelines for creating web platform compatible components](https://www.w3.org/2001/tag/doc/webcomponents-design-guidelines/) - 29 October 2018
 * [Distributed and syndicated content](https://www.w3.org/2001/tag/doc/distributed-content/) - 27 June 2017
 * [The evergreen Web](https://www.w3.org/2001/tag/doc/evergreen-web/) - 9 February 2017
