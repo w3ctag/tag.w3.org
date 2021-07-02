@@ -99,6 +99,14 @@ This should be no more than 1-2 paragraphs.]
 [If there are "adjacent" goals which may appear to be in scope but aren't,
 enumerate them here. This section may be fleshed out as your design progresses and you encounter necessary technical and other trade-offs.]
 
+## User research
+
+[If any user research has been conducted to inform the design choices presented
+discuss the process and findings. 
+We strongly encourage that API designers consider conducting user research to
+verify that their designs meet user needs and iterate on them,
+though we understand this is not always feasible.]
+
 ## [API 1]
 
 [For each related element of the proposed solution - be it an additional JS method, a new object, a new element, a new concept etc., create a section which briefly describes it.]
