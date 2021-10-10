@@ -43,6 +43,7 @@ not all of whom are likely to be highly motivated to spend a lot of time on it,
 you should always try to keep your explainer as brief and easy to read as possible.
 
 - Be clear about the **end-user** need, first and foremost.
+  - Sometimes the connection to the end-user need is complicated.  Do explain the connection, even if this requires breaking the "be brief" rule.  (For example, see the [explainer for deprecating document.domain](https://github.com/mikewest/deprecating-document-domain/#a-problem), although even that could perhaps use another sentence explaining why security boundaries are important for users.)
 - Keep it as brief and "skimmable" as you possibly can.
   - Writing succinctly is harder than writing at length. You might need to write a first draft, and then make one or more editing passes to cut down word count. This is a time investment, but will save time and energy for your readers.
   - Use bulleted lists where possible.
@@ -58,6 +59,7 @@ you should always try to keep your explainer as brief and easy to read as possib
   - Always provide text alternatives for readers who may not be able to see images.
     - Simpler images may be described via an [image alt](https://webaim.org/techniques/alttext/#complex).
     - More complex images may require a longer description in the form of a footnote or appendix to the document, linked immediately after the image, with a back-link to return to the section containing the image.
+- Help the reader understand which parts of your explainer describe the Web as it is today and which parts of the explainer describe what you are proposing to change.  Explainers often need to explain things about the Web today to give context for the proposal.  A reader who doesn't already know the details should be able to distinguish the context from the proposed changes.
 - As your design evolves, keep track of and make a note of alternatives which have been considered, and your reasons for not choosing them.
   - You undoubtedly had reasons not to choose those alternatives, but reviewers and other stakeholders may not have that context. Avoid redundant "what about [already-ruled out alternative]" type questions by explaining why those alternatives were ruled out.
   - Direct readers to the appropriate participation forums, issue tracker, etc.
