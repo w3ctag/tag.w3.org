@@ -14,21 +14,22 @@ The TAG is happy to provide feedback on nearly any Web-related specification, in
 
 It may also be helpful to have a look at:
 
-* [API Design Principles](https://w3ctag.github.io/design-principles/)
+* [Web Platform Design Principles](https://www.w3.org/TR/design-principles/)
+* [Self-Review Questionnaire: Security and Privacy](https://www.w3.org/TR/security-privacy-questionnaire)
 * [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
-* [Privacy and Security Self-Review Questionnaire](https://w3ctag.github.io/security-questionnaire/)
 * [What is an Explainer?](https://w3ctag.github.io/explainers)
+
+We also suggest you read the [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/) which forms the basis for some of the actionable advice we provide in the Web Platform Design Principles and the Security & Privacy Questionnaire.
 
 A positive review doesn't mean that a spec is "supported" by the TAG or that the design is free of issues, but hopefully it'll help improve the designs of APIs that request feedback.
 
-### 2. Extensible Web Summit
+### 2. Developer Outreach Events
 
-Periodically, the TAG holds events to gather different parts of the community to discuss experiences with the Web Platform, current work, and future developments.
+Periodically, the TAG has held events to gather different parts of the community to discuss experiences with the Web Platform, current work, and future developments.  The COVID-19 situation has curtailed this activty.
 
-These are great opportunities to not only engage with the TAG, but also a wider set of developers. The TAG wants to understand what problems are most important to developers in order to ensure that new designs solve important issues and that feature designers are paying attention to community needs.
+These have been great opportunities to not only engage with the TAG, but also a wider set of developers. The TAG wants to understand what problems are most important to developers in order to ensure that new designs solve important issues and that feature designers are paying attention to community needs.
 
-See the [Extensible Web Summit](https://extensiblewebsummit.org/) site for more information.
-
+See the [Extensible Web Summit](https://extensiblewebsummit.org/) site for more information on some of these events.  We look forward to restarting direct engagement with the developer community via events when possible.
 
 ### 3. TAG at TPAC
 
@@ -38,7 +39,6 @@ You can request that TAG members be present if you think it will help move your 
 
 Keep in mind that (like many other people), we’re pretty busy during TPAC, so please request such a meeting as early as you can by contacting the TAG chairs.
 
-
 ### 4. The www-tag Mailing List
 
-Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/). Note that this is also used as a general discussion list for Web architecture, and so if you need a response from the TAG, it’s best to get something into the [design-reviews issue tracker](https://github.com/w3ctag/design-reviews).
+Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/).  Although the TAG is not actively using this mailing list, we do comntinue to monitor it.  If you need a response from the TAG, it’s best to get something into the [design-reviews issue tracker](https://github.com/w3ctag/design-reviews) or raise an issue via github on one of our other documents.
