@@ -3,9 +3,6 @@ layout: front
 title: W3C Technical Architecture Group
 ---
 
-
-
-
 <div class="row">
 <div class="col-sm-4">
 
