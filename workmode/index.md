@@ -17,7 +17,7 @@ It may also be helpful to have a look at:
 * [Web Platform Design Principles](https://www.w3.org/TR/design-principles/)
 * [Self-Review Questionnaire: Security and Privacy](https://www.w3.org/TR/security-privacy-questionnaire)
 * [Writing Promise-Using Specifications](https://www.w3.org/2001/tag/doc/promises-guide)
-* [What is an Explainer?](https://w3ctag.github.io/explainers)
+* [What is an Explainer?](/explainers/)
 
 We also suggest you read the [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/) which forms the basis for some of the actionable advice we provide in the Web Platform Design Principles and the Security & Privacy Questionnaire.
 
