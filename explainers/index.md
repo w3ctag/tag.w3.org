@@ -1,8 +1,11 @@
-# Explainers
+---
+layout: page
+title: Explainers
+---
 
 ## Participate
 - [Explainer Explainer issues](https://github.com/w3ctag/w3ctag.github.io/labels/explainer%20explainer)
-- [GitHub repo](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md)
+- [GitHub repo](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers/index.md)
 
 ## Introduction
 

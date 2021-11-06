@@ -1,4 +1,7 @@
-## TAG Code of conduct
+---
+layout: page
+title: TAG Code of conduct
+---
 
 The TAG's primary focus is on the architecture of the World Wide Web, including general technical oversight of the development of the Web platform.
 
