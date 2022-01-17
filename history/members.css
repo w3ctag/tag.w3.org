@@ -10,6 +10,12 @@
 	margin-left: calc(-1 * (47vw - var(--container-width) / 2));
 }
 
+@media (max-width: 1600px) {
+	#membersList thead th + th {
+		writing-mode: vertical-lr;
+	}
+}
+
 .terms {
 	position: relative;
 }
