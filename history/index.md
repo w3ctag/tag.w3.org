@@ -53,7 +53,8 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [Vincent Quint Appointed to TAG (Dec 2004)](https://lists.w3.org/Archives/Member/w3c-ac-members/2004OctDec/0045.html) *(Member-only)*
 - [Director appointments (Nov 2005)](https://lists.w3.org/Archives/Member/w3c-ac-members/2005OctDec/0023.html) *(Member-only)*
 - [Stuart Williams appointed to TAG (Nov 2006)](https://lists.w3.org/Archives/Member/w3c-ac-members/2006OctDec/0049.html) *(Member-only)*
-- [Hadley Beeman re-appointed to the Technical Architecture Group (TAG)](https://lists.w3.org/Archives/Public/www-tag/2017Jan/0004.html)
+- [Appointments and Chair Announcements for the TAG (May 2013)](https://lists.w3.org/Archives/Member/w3c-ac-members/2013AprJun/0026.html)
+- [Hadley Beeman re-appointed to the TAG (Jan 2017)](https://lists.w3.org/Archives/Public/www-tag/2017Jan/0004.html)
 
 ### Archived TAG pages
 
