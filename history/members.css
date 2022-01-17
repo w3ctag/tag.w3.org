@@ -1,40 +1,40 @@
-body {
-	margin: 0;
-}
 #membersList {
+	position: relative;
 	--year-fr: calc(100% / var(--years));
 	--month-fr: calc(var(--year-fr) / 12);
 	--day-fr: calc(var(--month-fr) / 31);
 
-	width: 100%;
+	width: 94vw;
 	counter-reset: participant;
+
+	margin-left: calc(-1 * (47vw - var(--container-width) / 2));
 }
 
 .terms {
 	position: relative;
 }
 
-table {
+#membersList table {
 	position: relative;
 	table-layout: fixed;
 	border-spacing: 0;
 }
 
-tbody tr:nth-child(odd) {
+#membersList tbody tr:nth-child(odd) {
 	background: hsl(220 10% 97%);
 }
 
-tbody tr:hover {
+#membersList tbody tr:hover {
 	background: hsl(220 10% 93%);
 }
 
-thead th {
+#membersList thead th {
 	--padding: .3em;
 	padding: var(--padding);
 	word-break: break-all;
 }
 
-	thead th::before {
+	#membersList thead th + th::before {
 		content: "";
 		position: absolute;
 		margin-left: calc(-1 * var(--padding));
@@ -44,22 +44,22 @@ thead th {
 		background: hsl(220 10% 50% / .3);
 	}
 
-th.name {
+#membersList th.name {
 	padding: .1em;
 	white-space: nowrap;
 	counter-increment: participant;
 }
 
-	th.name::before {
+	#membersList th.name::before {
 		content: counter(participant) ". ";
 		opacity: .5;
 	}
 
-th:first-child {
+#membersList th:first-child {
 	width: 17em;
 }
 
-td.terms > div {
+#membersList td.terms > div {
 	display: grid;
 	grid-template-columns: repeat(calc(var(--years) + 1), 1fr);
 }

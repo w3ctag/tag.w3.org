@@ -46,6 +46,14 @@ for (let i = 1; i <= years; i++) {
 
 $$("td.terms", list).forEach(th => th.colSpan = years);
 
+let container = list.closest(".container");
+if (container) {
+	new ResizeObserver(_ => {
+		let rect = container.getBoundingClientRect();
+		list.style.setProperty("--container-width", rect.width + "px");
+	}).observe(container);
+}
+
 function $$(selector, context = document) {
 	return Array.from(context.querySelectorAll(selector));
 }
