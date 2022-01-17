@@ -18,7 +18,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 	</thead>
 </table>
 
-## References:
+## References
 
 ### TAG Election Results
 
