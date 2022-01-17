@@ -1,8 +1,14 @@
 ---
 layout: page
 title: TAG members over time
-lead: From 2001 to today
+lead: From 2001 to present
 ---
+
+This is a timeline of all TAG members and their terms,
+from the initial group in 2001 to the present.
+The data was pieced together from various [references](#references),
+which are listed below, but may still contain inaccuracies.
+Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag.w3.org/blob/main/history/members.json)
 
 <table id="membersList">
 	<thead class="years">
@@ -36,7 +42,7 @@ lead: From 2001 to today
 - [TAG election results (Jan 2016)](https://www.w3.org/blog/news/archives/5266)
 - [TAG election results (Dec 2016)](https://www.w3.org/blog/news/archives/5996)
 - [TAG election results (Jan 2018)](https://www.w3.org/blog/news/archives/6772)
-- [TAG election results (Jan 2019)](https://lists.w3.org/Archives/Member/w3c-ac-members/2019JanMar/0001.html)
+- [TAG election results (Jan 2019)](https://lists.w3.org/Archives/Member/w3c-ac-members/2019JanMar/0001.html) *(Member-only)*
 - [TAG election results (Jan 2020)](https://www.w3.org/blog/news/archives/8231)
 - [TAG election results (Jan 2021)](https://www.w3.org/blog/news/archives/8846)
 - [TAG election results (Jan 2022)](https://www.w3.org/blog/news/archives/9377)
