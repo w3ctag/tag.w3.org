@@ -62,6 +62,7 @@ For names and terms that could not be determined from the announcements above.
 - [Archived TAG page (Jun 2003)](http://web.archive.org/web/20030622122300/http://www.w3.org/2001/tag/)
 - [Archived TAG page (Jun 2005)](http://web.archive.org/web/20050611075737/https://www.w3.org/2001/tag/)
 - [Archived TAG page (Apr 2011)](http://web.archive.org/web/20110412194435/http://www.w3.org/2001/tag/)
+- [Archived TAG page (Sep 2013)](http://web.archive.org/web/20130921125441/http://www.w3.org/2001/tag/)
 
 ### Other
 
