@@ -1,12 +1,11 @@
 let response = await fetch("members.json");
 let members = await response.json();
 let list = membersList;
-
 let maxYear = 2001;
-
 let html = "";
-
 let dateFormat = new Intl.DateTimeFormat("en-US", {dateStyle: "medium"});
+
+document.head.insertAdjacentHTML("beforeend", `<link rel="stylesheet" href="members.css">`)
 
 for (let member of members) {
 	html += `<tr>
@@ -46,8 +45,6 @@ for (let i = 1; i <= years; i++) {
 }
 
 $$("td.terms", list).forEach(th => th.colSpan = years);
-
-
 
 function $$(selector, context = document) {
 	return Array.from(context.querySelectorAll(selector));
