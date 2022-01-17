@@ -1,4 +1,8 @@
-# TAG members over time
+---
+layout: page
+title: TAG members over time
+lead: From 2001 to today
+---
 
 <table id="membersList">
 	<thead class="years">
