@@ -20,7 +20,7 @@ title: W3C Technical Architecture Group
 
 <p>Our next public event is not currently scheduled.</p>
 
-<p>The next TAG face-to-face meeting is a virtual face-to-face in January 2021.</p>
+<p>The next TAG face-to-face meeting is a virtual face-to-face in January 2023.</p>
 
 <p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>.</p>
 
