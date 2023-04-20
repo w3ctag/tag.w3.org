@@ -499,6 +499,11 @@
 				"start": "2015-02-01",
 				"end": "2016-01-31",
 				"type": "elected"
+			},
+			{
+				"start": "2017-02-01",
+				"end": "2019-01-31",
+				"type": "auto-elected"
 			}
 		]
 	},
@@ -568,7 +573,7 @@
 			{
 				"start": "2017-02-01",
 				"end": "2019-07-31",
-				"type": "elected"
+				"type": "auto-elected"
 			}
 		]
 	},
@@ -643,7 +648,7 @@
 			{
 				"start": "2017-02-01",
 				"end": "2019-07-31",
-				"type": "elected"
+				"type": "auto-elected"
 			},
 			{
 				"start": "2019-02-01",
