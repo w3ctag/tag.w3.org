@@ -36,7 +36,7 @@ enumerate them here. This section may be fleshed out as your design progresses a
 ## User research
 
 [If any user research has been conducted to inform the design choices presented
-discuss the process and findings. 
+discuss the process and findings.
 We strongly encourage that API designers consider conducting user research to
 verify that their designs meet user needs and iterate on them,
 though we understand this is not always feasible.]

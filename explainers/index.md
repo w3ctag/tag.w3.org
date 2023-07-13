@@ -54,7 +54,7 @@ you should always try to keep your explainer as brief and easy to read as possib
 - Keep it as brief and "skimmable" as you possibly can.
   - Writing succinctly is harder than writing at length. You might need to write a first draft, and then make one or more editing passes to cut down word count. This is a time investment, but will save time and energy for your readers.
   - Use bulleted lists where possible.
-  - Draw attention to key points using **bold**. 
+  - Draw attention to key points using **bold**.
   - Keep your paragraphs and sentences short. Paragraphs should contain one idea only, and likely shouldn't be more than a couple of sentences. Break up large paragraphs as much as possible.
 - Keep the language as simple as possible.
   - Not all readers will always be fluent English speakers.
