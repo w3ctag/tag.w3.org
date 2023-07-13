@@ -99,6 +99,11 @@ in which case you should link to any active discussion threads.]
 
 [etc.]
 
+## Non-consensus dependencies
+
+[If your proposed solution depends on any other features that haven't been either implemented by
+multiple browser engines or adopted by a standards working group, list them here.]
+
 ## Considered alternatives
 
 [This should include as many alternatives as you can,
