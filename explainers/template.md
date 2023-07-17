@@ -99,10 +99,11 @@ in which case you should link to any active discussion threads.]
 
 [etc.]
 
-## Non-consensus dependencies
+## Dependencies on non-stable features
 
 [If your proposed solution depends on any other features that haven't been either implemented by
-multiple browser engines or adopted by a standards working group, list them here.]
+multiple browser engines or adopted by a standards working group (that is, not just a W3C community
+group), list them here.]
 
 ## Considered alternatives
 
