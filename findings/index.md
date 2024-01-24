@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TAG Findings
-lead: Findings are short documents that cover a specific issue in the Web architecture. 
+lead: Findings are short documents that cover a specific issue in the Web architecture.
 ---
 
 
@@ -44,6 +44,7 @@ _The following findings are works-in-progress._
 
 * [The Web is not Versioned](https://github.com/w3ctag/the-web-is-not-versioned/)
 * [Sustainability of Bundling and Caching](https://w3ctag.github.io/caching-bundling-sustainability/)
+* [Supporting BFCached Documents](https://w3ctag.github.io/bfcache-guide/)
 
 ### Archived Findings
 
