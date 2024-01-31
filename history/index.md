@@ -24,7 +24,8 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 
 - [News Release: World Wide Web Consortium Forms Technical Architecture Group (2001)](https://lists.w3.org/Archives/Public/www-tag/2001Dec/0003)
 - [Announcement: W3C Announces Technical Architecture Group (TAG) Results (2001)](https://lists.w3.org/Archives/Member/tag/2001Dec/0000) *(Member-only)*
-- [TAG election results (Jan 2003)](http://lists.w3.org/Archives/Public/www-tag/2003Jan/0420)
+- [TAG election results (Dec 2001)](https://lists.w3.org/Archives/Member/w3c-ac-members/2001OctDec/0034.html) *(Member-only)*
+- [TAG election results (Jan 2003)](https://lists.w3.org/Archives/Public/www-tag/2003Jan/0420)
 - [TAG election results (Jan 2004)](https://lists.w3.org/Archives/Public/www-tag/2004Jan/0075.html)
 - [TAG election results (Jan 2005)](https://lists.w3.org/Archives/Member/w3c-ac-members/2005JanMar/0015.html) *(Member-only)*
 - [TAG election results (Jan 2006)](https://lists.w3.org/Archives/Member/w3c-ac-members/2006JanMar/0003.html) *(Member-only)*
@@ -39,6 +40,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [TAG election results (Jan 2014)](https://www.w3.org/blog/news/archives/3570)
 - [TAG special election results (Sep 2014)](https://lists.w3.org/Archives/Public/www-tag/2014Sep/0000.html)
 - [TAG election results (Jan 2015)](https://www.w3.org/blog/news/archives/4304)
+- [TAG special election results (May 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015AprJun/0027.html) *(Member-only)*
 - [TAG election results (Jan 2016)](https://www.w3.org/blog/news/archives/5266)
 - [TAG election results (Dec 2016)](https://www.w3.org/blog/news/archives/5996)
 - [TAG election results (Jan 2018)](https://www.w3.org/blog/news/archives/6772)
