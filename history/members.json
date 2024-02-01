@@ -380,6 +380,12 @@
 				"end": "2024-01-31",
 				"type": "appointed",
 				"chair": true
+			},
+			{
+				"start": "2024-02-01",
+				"end": "2026-01-31",
+				"type": "elected",
+				"chair": true
 			}
 		]
 	},
@@ -425,6 +431,12 @@
 				"start": "2022-02-01",
 				"end": "2024-01-31",
 				"type": "appointed",
+				"chair": true
+			},
+			{
+				"start": "2024-02-01",
+				"end": "2025-01-31",
+				"type": "elected",
 				"chair": true
 			}
 		]
@@ -778,6 +790,31 @@
 			{
 				"start": "2022-02-01",
 				"end": "2024-01-31",
+				"type": "elected"
+			},
+			{
+				"start": "2024-02-01",
+				"end": "2026-01-31",
+				"type": "elected"
+			}
+		]
+	},
+	{
+		"name": "Matthew Atkinson",
+		"term": [
+			{
+				"start": "2024-02-01",
+				"end": "2026-01-31",
+				"type": "elected"
+			}
+		]
+	},
+	{
+		"name": "Martin Thomson",
+		"term": [
+			{
+				"start": "2024-02-01",
+				"end": "2026-01-31",
 				"type": "elected"
 			}
 		]
