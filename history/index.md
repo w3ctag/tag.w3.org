@@ -46,6 +46,9 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [TAG election results (Jan 2020)](https://www.w3.org/blog/news/archives/8231)
 - [TAG election results (Jan 2021)](https://www.w3.org/blog/news/archives/8846)
 - [TAG election results (Jan 2022)](https://www.w3.org/blog/news/archives/9377)
+- [TAG election results (Dec 2022)](https://www.w3.org/news/2022/w3c-advisory-committee-elects-technical-architecture-group-11/)
+- [TAG election results (Dec 2023)](https://www.w3.org/news/2023/w3c-advisory-committee-elects-technical-architecture-group/)
+- [TAG election results (Dec 2023)](https://lists.w3.org/Archives/Member/w3c-ac-members/2023OctDec/0059.html) *(Member-only)*
 
 ### Director appointments
 
