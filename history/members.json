@@ -18,7 +18,7 @@
 			},
 			{
 				"start": "2003-02-01",
-				"end": "2004-05-31",
+				"end": "2004-04-23",
 				"type": "appointed",
 				"resigned": true
 			}
@@ -165,8 +165,10 @@
 		"term": [
 			{
 				"start": "2004-02-01",
-				"end": "2006-01-31",
-				"type": "elected"
+				"original_end": "2006-01-31",
+				"end": "2004-07-11",
+				"type": "elected",
+				"note": "died"
 			}
 		]
 	},
@@ -190,7 +192,8 @@
 			},
 			{
 				"start": "2012-02-01",
-				"end": "2014-01-31",
+				"original_end": "2014-01-31",
+				"end": "2013-05-31",
 				"type": "appointed",
 				"chair": true,
 				"resigned": true
@@ -273,11 +276,6 @@
 			{
 				"start": "2007-02-01",
 				"end": "2008-01-31",
-				"type": "elected"
-			},
-			{
-				"start": "2007-02-01",
-				"end": "2008-01-31",
 				"type": "elected",
 				"resigned": true
 			}
@@ -315,6 +313,13 @@
 				"start": "2010-02-01",
 				"end": "2012-01-31",
 				"type": "appointed"
+			},
+			{
+				"start": "2012-02-01",
+				"original_end": "2014-01-31",
+				"end": "2013-05-31",
+				"type": "appointed",
+				"note": "end date is unclear, was reappointed in 2012 but seat was re-filled before end of appointment"
 			}
 		]
 	},
@@ -491,7 +496,7 @@
 		"term": [
 			{
 				"start": "2013-02-01",
-				"end": "2013-07-08",
+				"end": "2013-05-17",
 				"type": "elected",
 				"resigned": true
 			}
@@ -512,14 +517,14 @@
 		"term": [
 			{
 				"start": "2013-02-01",
-				"end": "2014-08-31",
+				"end": "2014-07-02",
 				"type": "elected",
 				"resigned": true,
 				"note": "Resigned when Domenic joined Google to resolve process constraint"
 			},
 			{
 				"start": "2015-02-01",
-				"end": "2016-01-31",
+				"end": "2017-01-31",
 				"type": "elected"
 			},
 			{
@@ -553,7 +558,7 @@
 		"name": "Domenic Denicola",
 		"term": [
 			{
-				"start": "2014-07-17",
+				"start": "2014-02-01",
 				"end": "2016-01-31",
 				"type": "elected"
 			}
@@ -564,7 +569,8 @@
 		"term": [
 			{
 				"start": "2014-07-17",
-				"end": "2016-01-31",
+				"original_end": "2016-01-31",
+				"end": "2015-03-11",
 				"type": "elected"
 			}
 		]
@@ -594,7 +600,7 @@
 			},
 			{
 				"start": "2017-02-01",
-				"end": "2019-07-31",
+				"end": "2019-01-31",
 				"type": "auto-elected"
 			}
 		]
@@ -604,8 +610,9 @@
 		"term": [
 			{
 				"start": "2015-02-01",
-				"end": "2017-01-31",
-				"type": "elected"
+				"end": "2016-01-31",
+				"type": "elected",
+				"note": "election originally announced as 2 year term but later found to be 1 year term"
 			}
 		]
 	},
@@ -643,6 +650,11 @@
 		"name": "David Baron",
 		"term": [
 			{
+				"start": "2015-05-13",
+				"end": "2016-01-31",
+				"type": "elected"
+			},
+			{
 				"start": "2016-02-01",
 				"end": "2018-01-31",
 				"type": "elected"
@@ -654,7 +666,8 @@
 			},
 			{
 				"start": "2020-02-01",
-				"end": "2022-01-31",
+				"original_end": "2022-01-31",
+				"end": "2021-01-31",
 				"type": "elected"
 			}
 		]
