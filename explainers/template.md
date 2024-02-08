@@ -36,7 +36,7 @@ enumerate them here. This section may be fleshed out as your design progresses a
 ## User research
 
 [If any user research has been conducted to inform the design choices presented
-discuss the process and findings. 
+discuss the process and findings.
 We strongly encourage that API designers consider conducting user research to
 verify that their designs meet user needs and iterate on them,
 though we understand this is not always feasible.]
@@ -98,6 +98,12 @@ in which case you should link to any active discussion threads.]
 ### [Tricky design choice 2]
 
 [etc.]
+
+## Dependencies on non-stable features
+
+[If your proposed solution depends on any other features that haven't been either implemented by
+multiple browser engines or adopted by a standards working group (that is, not just a W3C community
+group), list them here.]
 
 ## Considered alternatives
 
