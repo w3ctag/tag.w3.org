@@ -6,7 +6,7 @@ lead: "How we operate when carrying out a design review"
 
 ## Overview
 
-We periodically triage new issues opened in our [design reviews respository](), make assignments and add labels. We work both synchronously in calls, and asynchronously, depending on the complexity of a reivew request; sometimes we invite the requestor or another expert from the wider community to discuss something with us on a call.
+We periodically triage new issues opened in our [design reviews respository](https://github.com/w3ctag/design-reviews), make assignments and add labels. We work both synchronously in calls, and asynchronously, depending on the complexity of a reivew request; sometimes we invite the requestor or another expert from the wider community to discuss something with us on a call.
 
 During a review, we my use the issue thread to ask questions, make suggestions, and report our current thinking. We also update the issue labels, milestones, and assignees as the review progresses. Other stakeholders may also update the thread with additional information if they think it will help the review.
 
