@@ -52,17 +52,17 @@ We apply **labels** according to the following, to help us decide how to proceed
     * Internationalisation
     * Web architecture
 
-Then we **label** review requests with a level:
+Then we **label** review requests with a _mode_:
 
-* Level 0: we should not review this
-* Level 1: can be done asynchronously by one or two people for each area.
-* Level 2: should be scheduled to a breakout for time-limited discussion.
-* Level 3: needs a whole breakout; may need external input.
-* Level 4: escalation: needs whole TAG input.
+* `no-action`: we should not review this
+* `work-async`: can be done asynchronously by one or two people for each area. (Also known as 'fast-track'.)
+* `work-breakout`: should be scheduled to a breakout for time-limited discussion.
+* `work-extra`: needs a dedicated session/breakout; may need external input.
+* `work-whole-tag`: escalation: needs whole TAG input.
 
-Levels may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. For instance, level 1 may be appropriate for the API design, but the issue may be elevated to level 3 if privacy review seems necessary.
+The mode may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. For instance, `work-async` may be appropriate for the API design, but the issue may be changed to `work-extra` for privacy review if that seems necessary.
 
-**Milestones** are used to denote the week of a breakout in which we will next discuss the issue, or the deadline for asynchronous work to be done by the assignees.
+**Milestones** are used to denote the week of a breakout in which we will next discuss the issue, or the deadline for asynchronous work to be done by the assignees. We do our best to address the issue in the week of the milestone assigned, and to be realistic about when we can respond, but sometimes requests must be rescheduled.
 
 ### Prioritisation
 
