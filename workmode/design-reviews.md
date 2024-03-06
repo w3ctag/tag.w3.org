@@ -60,7 +60,7 @@ Then we **label** review requests with a level:
 * Level 3: needs a whole breakout; may need external input.
 * Level 4: escalation: needs whole TAG input.
 
-Levels may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. (Eg. a level 1 may be appropriate for the API design, but may be elevated to level 3 for privacy review).
+Levels may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. For instance, level 1 may be appropriate for the API design, but the issue may be elevated to level 3 if privacy review seems necessary.
 
 **Milestones** are used to denote the week of a breakout in which we will next discuss the issue, or the deadline for asynchronous work to be done by the assignees.
 
@@ -70,7 +70,7 @@ When prioritising issues to work on, we:
 
 * Prioritise horizontal review, and requests from WGs for REC-track documents.
 * Pay attention to deadlines, especially if they are part of the REC process.
-* Prioritise proposals with a clear path to standardisation.
+* Prioritise proposals with a clear path to standardisation, including multiple implementations.
 
 ### Review areas
 
@@ -80,12 +80,12 @@ We do this by passing a review between different TAG members, depending on the a
 
 Broadly, the areas we cover most commonly are:
 
+* Web architecture
 * API Design
 * Security
 * Privacy
 * Accessibility
 * Internationalisation
-* Web architecture
 
 **API design** is essentially review in line with the [design principles](https://www.w3.org/TR/design-principles/).
 
@@ -116,23 +116,23 @@ The complexity of a review usually depends on things like:
 * A long history of discussion/debate?
 * New work? Experimental?
 * Clear path to standardisation, or uncertain future?
-* Any specific questions the requestor asks us.
+* Has the requester asked us any questions?
 * Have we seen this, or something like it, before?
 
 ### Synchronously (on calls)
 
 We have a schedule of "breakout" calls each week across several timezones; TAG members are expected to attend at least two of these. The agenda is prepared in advance by the chairs, based on milestones assigned to design review issues, and the expected attendees of the breakouts. We use these for:
 
-* Addressing issues, answering questions etc. than cannot be done by assignees asynchronously.
 * Coworking on a review response; knowledge-sharing.
 * High bandwidth discussion on complex topics.
 * Discussion with external invitees.
 * Reaching consensus on difficult issues prior to final review.
+* Any other actions that cannot be performed asynchronously or independently.
 
 We also have a "plenary" call every two weeks, which all TAG members are expected to attend. We use these for:
 
 * Reporting on progress from breakouts or asynchronous working.
-* Escalation of contentious issues that need to be considered by everyone.
+* Escalation of interesting or difficult issues that might need more discussion or awareness.
 * Triaging new issues.
 * Future agenda planning.
 
@@ -151,7 +151,7 @@ When we complete a review, we use labels to indicate the disposition of the revi
 * **Ambivalent** Mixed feelings - either we failed to reach consensus on this or there is a level of uncertainty to the proposal where we feel the need to send a stronger negative message than Satisfied with Concerns.
 * **Unsatisfied** Unsatisfied due to the technical artifact being reviewed not being of acceptable quality standards. This can result from either a fundamentally flawed technical proposal or a salvageable proposal where the rebuttal was disputed and remained unchanged at the end of the review.
 * **Withdrawn** The feature champion decided to withdraw the proposal (e.g., determined that the design was overly complex to pursue and had unfixable flaws) during the review process.
-* **Overtaken** The proposal was usurped (e.g., by a competing proposal) during the review process.
+* **Overtaken** External events mean that the work is no longer relevant (e.g., a competing proposal is now being pursued instead).
 * **Validated** This is for early reviews, where we largely support the direction the work is going in.
 * **Timed out** We have requested additional information and have not received it.
 * **Too early** The proposal isn't ready for TAG review.
