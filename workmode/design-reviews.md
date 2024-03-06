@@ -101,6 +101,18 @@ We communicate the progress of our reviews by commenting in the issue thread, an
 
 Depending on the complexity of a review, work may be done synchronously (on calls, typically with three or more TAG members present) or asynchronously (by one or two TAG members).
 
+The complexity of a review usually depends on things like:
+
+* Long-running, well understood area?
+* Part of a set of connected proposals?
+* Is there multi-stakeholder support? 
+* Is there multi-implementer support?
+* A long history of discussion/debate?
+* New work? Experimental?
+* Clear path to standardisation, or uncertain future?
+* Any specific questions the requestor asks us.
+* Have we seen this, or something like it, before?
+
 ### Synchronously (on calls)
 
 We have a schedule of "breakout" calls each week across several timezones; TAG members are expected to attend at least two of these. The agenda is prepared in advance by the chairs, based on milestones assigned to design review issues, and the expected attendees of the breakouts. We use these for:
