@@ -9,12 +9,12 @@ The TAG is a service organization. It exists to help ensure that the web makes s
 ### 1. Specification Design Reviews
 
 The TAG focuses primarily on providing technical feedback to people designing APIs and looking to evolve existing designs. 
-That tends to take the form of collaborative specification review. 
+That tends to take the form of collaborative design review of proposals and/or specifications. 
 These reviews start with a discussion between TAG members and spec authors, sometimes on a call or face-to-face meeting, and result in written feedback to the design.
 
 The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design-reviews repository](https://github.com/w3ctag/design-reviews).
 
-Before opening a review request, you should read:
+Before opening a design review request, you should read:
 
 * [Web Platform Design Principles](https://www.w3.org/TR/design-principles/)
 * [Self-Review Questionnaire: Security and Privacy](https://www.w3.org/TR/security-privacy-questionnaire)
@@ -26,7 +26,7 @@ A positive review doesn't mean that a spec is "supported" by the TAG or that the
 
 When a specification is being worked on actively in a W3C working group, please ensure that the group chair has agreed to request a TAG review before requesting it.
 
-[Read this page for more information about the process we follow when conducting design reviews](design-reviews).
+[Read this page for more information about our design review process](design-reviews).
 
 ### 2. Developer Outreach Events
 

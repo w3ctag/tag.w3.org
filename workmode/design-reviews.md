@@ -8,7 +8,9 @@ lead: "How we operate when carrying out a design review"
 
 We periodically triage new issues opened in our [design reviews respository](https://github.com/w3ctag/design-reviews), make assignments and add labels. We work both synchronously in calls, and asynchronously, depending on the complexity of a reivew request; sometimes we invite the requestor or another expert from the wider community to discuss something with us on a call.
 
-During a review, we my use the issue thread to ask questions, make suggestions, and report our current thinking. We also update the issue labels, milestones, and assignees as the review progresses. Other stakeholders may also update the thread with additional information if they think it will help the review.
+During a review, we my use the issue thread to ask questions, make suggestions, and report our current thinking. 
+We also update the issue labels, milestones, and assignees as the review progresses. 
+Other stakeholders may also update the thread with additional information if they think it will help the review.
 
 When the review is complete, we will close the issue with a concluding comment, and add a label that describes the disposition of the review.
 
@@ -87,13 +89,17 @@ Broadly, the areas we cover most commonly are:
 
 **API design** is essentially review in line with the [design principles](https://www.w3.org/TR/design-principles/).
 
-**Security, Privacy, a11y and i18n** map to horizontal review groups. These should get picked up by such groups - our job is to reinforce any concerns, and flag anything resulting from the features' situation in the broader platform (eg. how it might interact with another feature that the HR group wasn't thinking/doesn't know about). For early reviews we may have to do more - but mainly prompting conversations with other HR groups, or flagging things for the requestor to look more closely at, rather than deep review.
+**Security, Privacy, a11y and i18n** map to horizontal review groups. 
+These should get picked up by such groups - our job is to reinforce any concerns, and flag anything resulting from the features' situation in the broader platform (eg. how it might interact with another feature that the HR group wasn't thinking/doesn't know about). 
+For early reviews we may have to do more - but mainly prompting conversations with other HR groups, or flagging things for the requestor to look more closely at, rather than deep review.
 
 **Web architecture**: how does it fit with the rest of the web platform? Implications for other existing or emerging features/areas? Is it consistent, technically and conceptually? Is it likely to be widely and consistently implemented? Any knock-on effects or opportunities from doing so? 
 
 ### Assignments
 
-At least two TAG members are assigned for each _area_ of each review request. All assignees should know which part(s) of the review they are responsible for. Issues may be reassigned to different people as a review progresses.
+At least two TAG members are assigned for each _area_ of each review request. 
+All assignees should know which part(s) of the review they are responsible for. 
+Issues may be reassigned to different people as a review progresses.
 
 ## Conducting a review
 
