@@ -85,7 +85,7 @@ Broadly, the areas we cover most commonly are:
 * Internationalisation
 * Web architecture
 
-**API design** is essentially review in line with the [design principles]().
+**API design** is essentially review in line with the [design principles](https://www.w3.org/TR/design-principles/).
 
 **Security, Privacy, a11y and i18n** map to horizontal review groups. These should get picked up by such groups - our job is to reinforce any concerns, and flag anything resulting from the features' situation in the broader platform (eg. how it might interact with another feature that the HR group wasn't thinking/doesn't know about). For early reviews we may have to do more - but mainly prompting conversations with other HR groups, or flagging things for the requestor to look more closely at, rather than deep review.
 
