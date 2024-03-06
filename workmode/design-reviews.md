@@ -154,5 +154,3 @@ When we complete a review, we use labels to indicate the disposition of the revi
 * **No comment** Used when we don't have the required expertise.
 * **Proposed: Abstain** This is a neutral resolution, which can be used for the entire spectrum between "not enough time/expertise" to "we don't care" - basically, when we have neither positive nor negative feedback on the proposal.
 * **Proposed: Object** We strongly object to this proposal to a point that we would consider a formal objection at the point of a wider review. This applies to cases where we do not think the feature should be part of the Web Platform (and whether it ships as a proprietary feature or not, we do not have control but likely do not care).
-
-
