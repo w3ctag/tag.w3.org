@@ -16,11 +16,11 @@ When the review is complete, we will close the issue with a concluding comment, 
 
 ## Making a request
 
-We provide an issue template for new review requests, and all review requests **must** provide [an explainer](explainers).
+We provide an issue template for new review requests, and all review requests **must** provide [an explainer](../explainers).
 
 Please make it clear in your issue description:
 
-* at which stage the feature is (eg. if this is an early review, or part of horizontal review for CR);
+* at which stage the feature is (eg. if this is an early review, or part of horizontal review for work that intends to become a W3C Candidate Recommendation);
 * if you are opening an issue to give the TAG visibility of some activity (an "FYI");
 * if the review is of a minor change to an existing specification which you think can benefit from TAG review;
 * if there are any particular topics, questions or areas you are seeking input on.
