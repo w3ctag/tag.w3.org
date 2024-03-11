@@ -71,6 +71,7 @@ When prioritising issues to work on, we:
 * Prioritise horizontal review, and requests from WGs for REC-track documents.
 * Pay attention to deadlines, especially if they are part of the REC process.
 * Prioritise proposals with a clear path to standardisation, including multiple implementations.
+* Prioritise based on an assessment of impact, preferring proposals where review will add more value.
 
 ### Review areas
 
