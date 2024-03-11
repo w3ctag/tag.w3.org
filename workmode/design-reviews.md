@@ -54,11 +54,11 @@ We apply **labels** according to the following, to help us decide how to proceed
 
 Then we **label** review requests with a _mode_:
 
-* `no-action`: we should not review this
-* `mode-async`: can be done asynchronously by one or two people for each area. (Also known as 'fast-track'.)
-* `mode-breakout`: should be scheduled to a breakout for time-limited discussion.
-* `mode-extra`: needs a dedicated session/breakout; may need external input.
-* `mode-whole-tag`: escalation: needs whole TAG input.
+* `mode: none`: we should not review this
+* `mode: async`: can be done asynchronously by one or two people for each area. (Also known as 'fast-track'.)
+* `mode: breakout`: should be scheduled to a breakout for time-limited discussion.
+* `mode: extra`: needs a dedicated session/breakout; may need external input.
+* `mode: plenary`: escalation: needs whole TAG input.
 
 The mode may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. For instance, `mode-async` may be appropriate for the API design, but the issue may be changed to `mode-extra` for privacy review if that seems necessary.
 
