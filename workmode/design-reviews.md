@@ -159,5 +159,5 @@ When we complete a review, we use labels to indicate the disposition of the revi
 * **Out of scope** This isn't in the scope of the TAG.
 * **Lack of consensus** The TAG does not have an internal consensus on this proposal.
 * **No comment** Used when we don't have the required expertise.
-* **Proposed: Abstain** This is a neutral resolution, which can be used for the entire spectrum between "not enough time/expertise" to "we don't care" - basically, when we have neither positive nor negative feedback on the proposal.
+* **Decline** The TAG has declined to review this work.  This might be for any number of reasons, which will be explained in comments.  Possible examples are a lack of expertise, lack of time, a judgment that a review would not help improve the work, or the work is off-topic.
 * **Proposed: Object** We strongly object to this proposal to a point that we would consider a formal objection at the point of a wider review. This applies to cases where we do not think the feature should be part of the Web Platform (and whether it ships as a proprietary feature or not, we do not have control but likely do not care).
