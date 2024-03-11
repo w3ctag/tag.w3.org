@@ -149,7 +149,6 @@ When we complete a review, we use labels to indicate the disposition of the revi
 
 * **Satisfied** This is a straightforward positive response.
 * **Satisfied with Concerns** Positive, but would like to see either technical (e.g. API surface) or ecosystem (e.g. other implementor buy-in) changes. If the rebuttal results in no change in the substance of the proposal (feature champion rejects any suggested changes), this will get bumped down to one of the following negative resolutions, usually Unsatisfied.
-* **Ambivalent** Mixed feelings - either we failed to reach consensus on this or there is a level of uncertainty to the proposal where we feel the need to send a stronger negative message than Satisfied with Concerns.
 * **Unsatisfied** Unsatisfied due to the technical artifact being reviewed not being of acceptable quality standards. This can result from either a fundamentally flawed technical proposal or a salvageable proposal where the rebuttal was disputed and remained unchanged at the end of the review.
 * **Withdrawn** The review requester decided to withdraw the proposal during the review process.
 * **Overtaken** External events mean that the work is no longer relevant (e.g., a competing proposal is now being pursued instead).
