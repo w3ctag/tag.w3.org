@@ -154,9 +154,6 @@ When we complete a review, we use labels to indicate the disposition of the revi
 * **Overtaken** External events mean that the work is no longer relevant (e.g., a competing proposal is now being pursued instead).
 * **Validated** This is for early reviews, where we largely support the direction the work is going in.
 * **Timed out** We have requested additional information and have not received it.
-* **Too early** The proposal isn't ready for TAG review.
-* **Out of scope** This isn't in the scope of the TAG.
 * **Lack of consensus** The TAG does not have an internal consensus on this proposal.
-* **No comment** Used when we don't have the required expertise.
-* **Decline** The TAG has declined to review this work.  This might be for any number of reasons, which will be explained in comments.  Possible examples are a lack of expertise, lack of time, a judgment that a review would not help improve the work, or the work is off-topic.
+* **Decline** The TAG has declined to review this work.  This might be for any number of reasons, which will be explained in comments.  Possible examples are a lack of expertise, lack of time, a judgment that a review would not help improve the work, it's too early for a TAG review, or the work is out of scope.
 * **Object** The TAG has resolved that this work would be detrimental or runs counter to [design](), [privacy](), [ethical](), or other principles that have been established by the TAG or W3C. This is a strongly negative position and indicates that the TAG, as a body, will [oppose](process#fo) the progression of work toward Recommendation.
