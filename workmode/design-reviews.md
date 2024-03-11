@@ -60,7 +60,7 @@ Then we **label** review requests with a _mode_:
 * `mode: extra`: needs a dedicated session/breakout; may need external input.
 * `mode: plenary`: escalation: needs whole TAG input.
 
-The mode may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. For instance, `mode-async` may be appropriate for the API design, but the issue may be changed to `mode-extra` for privacy review if that seems necessary.
+The mode may change as a review progresses and new information comes to light, particularly as different areas are reviewed in more depth. For instance, `mode: async` may be appropriate for the API design, but the issue may be changed to `mode: extra` for privacy review if that seems necessary.
 
 **Milestones** are used to denote the week of a breakout in which we will next discuss the issue, or the deadline for asynchronous work to be done by the assignees. We do our best to address the issue in the week of the milestone assigned, and to be realistic about when we can respond, but sometimes requests must be rescheduled.
 
