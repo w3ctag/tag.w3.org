@@ -4,9 +4,21 @@ title: Design reviews
 lead: "How we operate when carrying out a design review"
 ---
 
+## Introduction
+
+An important function of the TAG is in providing [design review](https://github.com/w3ctag/design-reviews), for proposed changes to the web.
+
+Authors of new proposals can [ask the TAG to review](https://github.com/w3ctag/design-reviews/issues/new/choose) a proposal or to resolve a technical dispute.
+
+This document describes how the TAG handles these requests.
+
 ## Overview
 
-We periodically triage new issues opened in our [design reviews respository](https://github.com/w3ctag/design-reviews), make assignments and add labels. We work both synchronously in calls, and asynchronously, depending on the complexity of a reivew request; sometimes we invite the requestor or another expert from the wider community to discuss something with us on a call.
+Once a request is made, we periodically triage new issues and make assignments.
+
+Review is performed both synchronously in calls, and asynchronously, depending on the complexity of a review request.  Sometimes we invite the requestor or another expert from the wider community to discuss something with us on a call.
+
+We track the status of review requests with issue labels.  Labels describe how we intend to conduct a review, who we believe is responsible for any outstanding actions, and any resolution to the review.
 
 During a review, we my use the issue thread to ask questions, make suggestions, and report our current thinking. 
 We also update the issue labels, milestones, and assignees as the review progresses. 
@@ -16,7 +28,7 @@ When the review is complete, we will close the issue with a concluding comment, 
 
 ## Making a request
 
-We provide an issue template for new review requests, and all review requests **must** provide [an explainer](../explainers).
+We provide an issue template for new review requests, and all review requests **must** provide [an explainer](/explainers/).
 
 Please make it clear in your issue description:
 
@@ -52,9 +64,9 @@ We apply **labels** according to the following, to help us decide how to proceed
     * Internationalisation
     * Web architecture
 
-Then we **label** review requests with a _mode_:
+During triage, we might decline a request for any reason (see below).
+For reviews that we accept, we will **label** review requests with a _mode_:
 
-* `mode: none`: we should not review this
 * `mode: async`: can be done asynchronously by one or two people for each area. (Also known as 'fast-track'.)
 * `mode: breakout`: should be scheduled to a breakout for time-limited discussion.
 * `mode: extra`: needs a dedicated session/breakout; may need external input.
@@ -156,4 +168,4 @@ When we complete a review, we use labels to indicate the disposition of the revi
 * **Timed out** We have requested additional information and have not received it.
 * **Lack of consensus** The TAG does not have an internal consensus on this proposal.
 * **Decline** The TAG has declined to review this work.  This might be for any number of reasons, which will be explained in comments.  Possible examples are a lack of expertise, lack of time, a judgment that a review would not help improve the work, it's too early for a TAG review, or the work is out of scope.
-* **Object** The TAG has resolved that this work would be detrimental or runs counter to [design](), [privacy](), [ethical](), or other principles that have been established by the TAG or W3C. This is a strongly negative position and indicates that the TAG, as a body, will [oppose](process#fo) the progression of work toward Recommendation.
+* **Object** The TAG has resolved that this work would be detrimental or runs counter to [design](https://w3ctag.github.io/design-principles/), [privacy](https://w3ctag.github.io/privacy-principles/), [ethical](https://w3ctag.github.io/ethical-web-principles/), or other principles that have been established by the TAG or W3C. This is a strongly negative position and indicates that the TAG, as a body, will [oppose](https://www.w3.org/2023/Process-20231103/#registering-objections) the progression of work toward Recommendation.
