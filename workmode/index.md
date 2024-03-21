@@ -12,7 +12,7 @@ The TAG focuses primarily on providing technical feedback to people designing AP
 That tends to take the form of collaborative design review of proposals and/or specifications. 
 These reviews start with a discussion between TAG members and spec authors, sometimes on a call or face-to-face meeting, and result in written feedback to the design.
 
-The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design-reviews repository](https://github.com/w3ctag/workmode/design-reviews.html).
+The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design-reviews repository](https://github.com/w3ctag/design-reviews/).
 
 Before opening a design review request, you should read:
 
@@ -46,4 +46,4 @@ Keep in mind that (like many other people), we’re pretty busy during TPAC, so 
 
 ### 4. The www-tag Mailing List
 
-Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/).  Although the TAG is not actively using this mailing list, we do comntinue to monitor it.  If you need a response from the TAG, it’s best to get something into the [design-reviews issue tracker](https://github.com/w3ctag/design-reviews) or raise an issue via github on one of our other documents.
+Issues that aren’t related to a specification can be discussed on the [www-tag mailing list](https://lists.w3.org/Archives/Public/www-tag/).  Although the TAG is not actively using this mailing list, we do comntinue to monitor it.  If you need a response from the TAG, it’s best to get something into the [design-reviews issue tracker](https://github.com/w3ctag/design-reviews/issues/) or raise an issue via github on one of our other documents.
