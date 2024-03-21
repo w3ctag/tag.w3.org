@@ -12,7 +12,7 @@ The TAG focuses primarily on providing technical feedback to people designing AP
 That tends to take the form of collaborative design review of proposals and/or specifications. 
 These reviews start with a discussion between TAG members and spec authors, sometimes on a call or face-to-face meeting, and result in written feedback to the design.
 
-The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design-reviews repository](https://github.com/w3ctag/workmode/design-reviews).
+The TAG is happy to provide feedback on nearly any Web-related specification, including work happening outside the W3C. To get TAG feedback, open a review issue in our [design-reviews repository](https://github.com/w3ctag/workmode/design-reviews.md).
 
 Before opening a design review request, you should read:
 
