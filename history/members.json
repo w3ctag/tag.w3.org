@@ -161,6 +161,16 @@
 		]
 	},
 	{
+		"name": "Ian Jacobs",
+		"term": [
+			{
+				"start": "2001-12-11",
+				"end": "2004-09-29",
+				"type": "staff-contact"
+			}
+		]
+	},
+	{
 		"name": "Mario Jeckle",
 		"term": [
 			{
@@ -456,16 +466,6 @@
 		]
 	},
 	{
-		"name": "Ian Jacobs",
-		"term": [
-			{
-				"start": "2001-12-11",
-				"end": "2004-09-29",
-				"type": "staff-contact"
-			}
-		]
-	},
-	{
 		"name": "Jeni Tennison",
 		"term": [
 			{
@@ -568,7 +568,7 @@
 		"name": "David Herman",
 		"term": [
 			{
-				"start": "2014-07-17",
+				"start": "2014-02-01",
 				"original_end": "2016-01-31",
 				"end": "2015-03-11",
 				"type": "elected"
@@ -839,6 +839,26 @@
 				"start": "2024-02-01",
 				"end": "2026-01-31",
 				"type": "elected"
+			}
+		]
+	},
+	{
+		"name": "Tristan Nitot",
+		"term": [
+			{
+				"start": "2024-07-15",
+				"end": "2026-01-31",
+				"type": "appointed"
+			}
+		]
+	},
+	{
+		"name": "Jeffrey Yasskin",
+		"term": [
+			{
+				"start": "2024-07-15",
+				"end": "2026-01-31",
+				"type": "appointed"
 			}
 		]
 	}
