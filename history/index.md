@@ -61,6 +61,9 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [Appointments and Chair Announcements for the TAG (May 2013)](https://lists.w3.org/Archives/Member/w3c-ac-members/2013AprJun/0026.html)
 - [Hadley Beeman re-appointed to the TAG (Jan 2017)](https://lists.w3.org/Archives/Public/www-tag/2017Jan/0004.html)
 
+### W3C Team appointments
+- [W3C Team appointments to the TAG ratified](https://www.w3.org/news/2024/w3c-team-appointments-to-the-tag-ratified/)
+
 ### Archived TAG pages
 
 For names and terms that could not be determined from the announcements above.
