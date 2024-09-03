@@ -163,7 +163,7 @@ We keep each other updated about any reviews that were completed asynchronously 
 
 We use github labels beginning with `Progress:` to track the current status of a review at a glance. When a review is complete, there should be no `Progress` labels attached.
 
-We update the `Focus:` labels to say `pending` or `complete` for each focus area as we do the review. Sometimes this is done in parts, by different TAG members; sometimes a single response will cover all of the releavnt focus areas.
+We update the `Focus:` labels to say `pending` or `complete` for each focus area as we do the review. Sometimes this is done in parts, by different TAG members; sometimes a single response will cover all of the relevant focus areas.
 
 ## Resolutions
 
