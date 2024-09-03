@@ -22,6 +22,7 @@ As your work progresses, the explainer can help facilitate multi-stakeholder dis
 - the proposed approach to solving the problem;
 - the way the proposed solution may be used in practice to address the intended use cases, via example code;
 - any other venues (such as mailing list, pull requests or issue threads external to the location of the explainer) where the reader may catch up on discussions regarding the proposed feature or features;
+- what other proposed features the proposed solution depends on, if any;
 - the alternatives which have already been considered and why they were not chosen;
 - accessibility, security and privacy implications which have been considered as part of the design process.
 
@@ -54,7 +55,7 @@ you should always try to keep your explainer as brief and easy to read as possib
 - Keep it as brief and "skimmable" as you possibly can.
   - Writing succinctly is harder than writing at length. You might need to write a first draft, and then make one or more editing passes to cut down word count. This is a time investment, but will save time and energy for your readers.
   - Use bulleted lists where possible.
-  - Draw attention to key points using **bold**. 
+  - Draw attention to key points using **bold**.
   - Keep your paragraphs and sentences short. Paragraphs should contain one idea only, and likely shouldn't be more than a couple of sentences. Break up large paragraphs as much as possible.
 - Keep the language as simple as possible.
   - Not all readers will always be fluent English speakers.
