@@ -51,10 +51,12 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [TAG election results (Dec 2022)](https://www.w3.org/news/2022/w3c-advisory-committee-elects-technical-architecture-group-11/)
 - [TAG election results (Dec 2023)](https://www.w3.org/news/2023/w3c-advisory-committee-elects-technical-architecture-group/)
 - [Detailed TAG election results (Dec 2023)](https://lists.w3.org/Archives/Member/w3c-ac-members/2023OctDec/0059.html) *(Member-only)*
+- [TAG election results (Dec 2024)](https://www.w3.org/news/2024/w3c-advisory-committee-elects-technical-architecture-group/)
 
 ### Director appointments
 
 - [News Release: World Wide Web Consortium Forms Technical Architecture Group (2001)](https://lists.w3.org/Archives/Public/www-tag/2001Dec/0003)
+- [Director appointment (Dec 2003)](https://lists.w3.org/Archives/Member/w3c-ac-members/2003OctDec/0038.html) *(Member-only)*
 - [Vincent Quint Appointed to TAG (Dec 2004)](https://lists.w3.org/Archives/Member/w3c-ac-members/2004OctDec/0045.html) *(Member-only)*
 - [Director appointments (Nov 2005)](https://lists.w3.org/Archives/Member/w3c-ac-members/2005OctDec/0023.html) *(Member-only)*
 - [Stuart Williams appointed to TAG (Nov 2006)](https://lists.w3.org/Archives/Member/w3c-ac-members/2006OctDec/0049.html) *(Member-only)*

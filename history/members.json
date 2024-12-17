@@ -34,7 +34,7 @@
 			},
 			{
 				"start": "2004-02-01",
-				"end": "2005-01-31",
+				"end": "2006-01-31",
 				"type": "appointed"
 			},
 			{
@@ -499,6 +499,11 @@
 				"end": "2013-05-17",
 				"type": "elected",
 				"resigned": true
+			},
+			{
+				"start": "2025-02-01",
+				"end": "2027-01-31",
+				"type": "elected"
 			}
 		]
 	},
@@ -643,6 +648,11 @@
 				"start": "2023-02-01",
 				"end": "2025-01-31",
 				"type": "appointed"
+			},
+			{
+				"start": "2025-02-01",
+				"end": "2027-01-31",
+				"type": "elected"
 			}
 		]
 	},
@@ -859,6 +869,26 @@
 				"start": "2024-07-15",
 				"end": "2026-01-31",
 				"type": "appointed"
+			}
+		]
+	},
+	{
+		"name": "Sarven Capadisli",
+		"term": [
+			{
+				"start": "2025-02-01",
+				"end": "2027-01-31",
+				"type": "elected"
+			}
+		]
+	},
+	{
+		"name": "Xiaocheng Hu",
+		"term": [
+			{
+				"start": "2025-02-01",
+				"end": "2027-01-31",
+				"type": "elected"
 			}
 		]
 	}
