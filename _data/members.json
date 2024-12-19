@@ -1,3 +1,6 @@
+{
+	"maxYear": 2027,
+	"members":
 [
 	{
 		"name": "Tim-Berners-Lee",
@@ -909,3 +912,4 @@
 		]
 	}
 ]
+}
