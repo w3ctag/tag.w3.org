@@ -78,7 +78,7 @@ Help readers differentiate between the current state of the web and the proposed
 Keep track of and explain alternative approaches that were considered but not chosen. This helps reviewers understand the decision-making process and avoids redundant questions.
 
 9. Markdown Format for Transparency and Likability:
-Please provide your explainer as a markdown file alongside the specification. 
+Please provide your explainer as a markdown file alongside the specification.
 This approach promotes transparency, discoverability, and accessibility, making it easier for readers to access and navigate the content and making it easier to refer to sections of the document during any discussion in the design review issue.
 
 10. Encourage Participation:

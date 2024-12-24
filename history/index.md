@@ -24,7 +24,8 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 
 - [News Release: World Wide Web Consortium Forms Technical Architecture Group (2001)](https://lists.w3.org/Archives/Public/www-tag/2001Dec/0003)
 - [Announcement: W3C Announces Technical Architecture Group (TAG) Results (2001)](https://lists.w3.org/Archives/Member/tag/2001Dec/0000) *(Member-only)*
-- [TAG election results (Jan 2003)](http://lists.w3.org/Archives/Public/www-tag/2003Jan/0420)
+- [TAG election results (Dec 2001)](https://lists.w3.org/Archives/Member/w3c-ac-members/2001OctDec/0034.html) *(Member-only)*
+- [TAG election results (Jan 2003)](https://lists.w3.org/Archives/Public/www-tag/2003Jan/0420)
 - [TAG election results (Jan 2004)](https://lists.w3.org/Archives/Public/www-tag/2004Jan/0075.html)
 - [TAG election results (Jan 2005)](https://lists.w3.org/Archives/Member/w3c-ac-members/2005JanMar/0015.html) *(Member-only)*
 - [TAG election results (Jan 2006)](https://lists.w3.org/Archives/Member/w3c-ac-members/2006JanMar/0003.html) *(Member-only)*
@@ -39,6 +40,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [TAG election results (Jan 2014)](https://www.w3.org/blog/news/archives/3570)
 - [TAG special election results (Sep 2014)](https://lists.w3.org/Archives/Public/www-tag/2014Sep/0000.html)
 - [TAG election results (Jan 2015)](https://www.w3.org/blog/news/archives/4304)
+- [TAG special election results (May 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015AprJun/0027.html) *(Member-only)*
 - [TAG election results (Jan 2016)](https://www.w3.org/blog/news/archives/5266)
 - [TAG election results (Dec 2016)](https://www.w3.org/blog/news/archives/5996)
 - [TAG election results (Jan 2018)](https://www.w3.org/blog/news/archives/6772)
@@ -46,15 +48,32 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [TAG election results (Jan 2020)](https://www.w3.org/blog/news/archives/8231)
 - [TAG election results (Jan 2021)](https://www.w3.org/blog/news/archives/8846)
 - [TAG election results (Jan 2022)](https://www.w3.org/blog/news/archives/9377)
+- [TAG election results (Dec 2022)](https://www.w3.org/news/2022/w3c-advisory-committee-elects-technical-architecture-group-11/)
+- [TAG election results (Dec 2023)](https://www.w3.org/news/2023/w3c-advisory-committee-elects-technical-architecture-group/)
+- [Detailed TAG election results (Dec 2023)](https://lists.w3.org/Archives/Member/w3c-ac-members/2023OctDec/0059.html) *(Member-only)*
+- [TAG election results (Dec 2024)](https://www.w3.org/news/2024/w3c-advisory-committee-elects-technical-architecture-group/)
 
 ### Director appointments
 
 - [News Release: World Wide Web Consortium Forms Technical Architecture Group (2001)](https://lists.w3.org/Archives/Public/www-tag/2001Dec/0003)
+- [Director appointment (Dec 2003)](https://lists.w3.org/Archives/Member/w3c-ac-members/2003OctDec/0038.html) *(Member-only)*
 - [Vincent Quint Appointed to TAG (Dec 2004)](https://lists.w3.org/Archives/Member/w3c-ac-members/2004OctDec/0045.html) *(Member-only)*
 - [Director appointments (Nov 2005)](https://lists.w3.org/Archives/Member/w3c-ac-members/2005OctDec/0023.html) *(Member-only)*
 - [Stuart Williams appointed to TAG (Nov 2006)](https://lists.w3.org/Archives/Member/w3c-ac-members/2006OctDec/0049.html) *(Member-only)*
-- [Appointments and Chair Announcements for the TAG (May 2013)](https://lists.w3.org/Archives/Member/w3c-ac-members/2013AprJun/0026.html)
+- [Appointments and Chair Announcements for the TAG (May 2013)](https://lists.w3.org/Archives/Member/w3c-ac-members/2013AprJun/0026.html) *(Member-only)*
+- [Hadley Beeman appointed to the TAG (Apr 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015AprJun/0010.html) *(Member-only)*
+- [Dan Appelquist re-appointed to the TAG (Jun 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015AprJun/0059.html) *(Member-only)*
+- [Dan Appelquist and Peter Linss re-appointed to the TAG (Dec 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015OctDec/0038.html) *(Member-only)*
 - [Hadley Beeman re-appointed to the TAG (Jan 2017)](https://lists.w3.org/Archives/Public/www-tag/2017Jan/0004.html)
+- [Dan Appelquist and Peter Linss re-appointed to the TAG (Dec 2017)](https://lists.w3.org/Archives/Member/w3c-ac-members/2017OctDec/0042.html) *(Member-only)*
+- [Hadley Beeman re-appointed to the TAG (Dec 2018)](https://lists.w3.org/Archives/Member/w3c-ac-members/2018OctDec/0052.html) *(Member-only)*
+- [Dan Appelquist and Peter Linss re-appointed to the TAG (Nov 2019)](https://lists.w3.org/Archives/Member/w3c-ac-members/2019OctDec/0022.html) *(Member-only)*
+- [Hadley Beeman re-appointed to the TAG (Nov 2020)](https://lists.w3.org/Archives/Member/w3c-ac-members/2020OctDec/0016.html) *(Member-only)*
+- [Dan Appelquist and Peter Linss re-appointed to the TAG (Oct 2021)](https://lists.w3.org/Archives/Member/w3c-ac-members/2021OctDec/0013.html) *(Member-only)*
+- [Hadley Beeman re-appointed to the TAG (Oct 2022)](https://lists.w3.org/Archives/Member/w3c-ac-members/2022OctDec/0003.html) *(Member-only)*
+
+### W3C Team appointments
+- [W3C Team appointments to the TAG ratified](https://www.w3.org/news/2024/w3c-team-appointments-to-the-tag-ratified/)
 
 ### Archived TAG pages
 

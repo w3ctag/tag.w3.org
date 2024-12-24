@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TAG Findings
-lead: Findings are short documents that cover a specific issue in the Web architecture. 
+lead: Findings are short documents that cover a specific issue in the Web architecture.
 ---
 
 
@@ -9,6 +9,7 @@ lead: Findings are short documents that cover a specific issue in the Web archit
 
 _The following findings reflect the current position of the TAG._
 
+* [The web is unversioned](https://www.w3.org/2001/tag/doc/the-web-is-unversioned/) - 3 December 2024
 * [Improving the web without third-party cookies](https://www.w3.org/2001/tag/doc/web-without-3p-cookies/) - 4 May 2023
 * [W3C TAG Observations on Private Browsing Modes](https://www.w3.org/2001/tag/doc/private-browsing-modes/) - 5 July 2019
 * [W3C TAG Ethical Web Principles (W3C Note)](https://www.w3.org/TR/ethical-web-principles/) - 27 October 2020
@@ -38,10 +39,17 @@ _The following findings reflect the current position of the TAG._
 * [Consistency of Formatting Property Names, Values, and Semantics](https://www.w3.org/2001/tag/doc/formatting-properties.html) - 25 Jul 2002
 * [Mapping between URIs and Internet media types](https://www.w3.org/2001/tag/2002/01-uriMediaType-9) - 27 May 2002
 
-
 ### Draft Findings
 
 _The following findings are works-in-progress._
+
+* [The Web is not Versioned](https://github.com/w3ctag/the-web-is-not-versioned/)
+* [Sustainability of Bundling and Caching](https://w3ctag.github.io/caching-bundling-sustainability/)
+* [Supporting BFCached Documents](https://w3ctag.github.io/bfcache-guide/)
+
+### Archived Findings
+
+_The following findings are not currently being considered for publication by the TAG._
 
 * [Passwords in the Clear](https://www.w3.org/2001/tag/doc/passwordsInTheClear-52)
 * [Abstract Component References](https://www.w3.org/2001/tag/doc/abstractComponentRefs.html)
@@ -54,17 +62,10 @@ _The following findings are works-in-progress._
 * [State in Web application design](https://www.w3.org/2001/tag/doc/state.html)
 * [Dereferencing HTTP URIs](https://www.w3.org/2001/tag/doc/httpRange-14/2007-08-31/HttpRange-14) - Abandoned in favour of "Cool URIs for the Semantic Web"
 * [Usage Patterns For Client-Side URL parameters](https://www.w3.org/TR/hash-in-uri/)
-
-
-### Archived Findings
-
-_The following findings are not currently being considered for publication by the TAG._
-
 * [Separation of semantic and presentational markup, to the extent possible, is architecturally sound](https://www.w3.org/2001/tag/doc/contentPresentation-26.html)
 
 
 ---
-
 
 At its 4 Nov 2002 teleconference, the TAG agreed to adopt the following policy for managing findings.
 
