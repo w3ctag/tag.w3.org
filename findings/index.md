@@ -28,7 +28,6 @@ _The following findings reflect the current position of the TAG._
 * [Associating Resources with Namespaces](https://www.w3.org/2001/tag/doc/nsDocuments/) - 25 June 2008
 * [The use of Metadata in URIs](https://www.w3.org/2001/tag/doc/metaDataInURI-31.html) - 2 January 2007
 * [On Linking Alternative Formats To Enable Discovery And Publishing](https://www.w3.org/2001/tag/doc/alternatives-discovery.html) - 1st November 2006
-* [Authoritative Metadata](https://www.w3.org/2001/tag/doc/mime-respect-20130422) - 22 April 2013
 * [The Rule of Least Power](https://www.w3.org/2001/tag/doc/leastPower.html) - 23 February 2006
 * [The Disposition of Names in an XML Namespace](https://www.w3.org/2001/tag/doc/namespaceState.html) - 9 January 2006
 * [How should the problem of identifying ID semantics in XML languages be addressed in the absence of a DTD?](https://www.w3.org/2001/tag/doc/xmlIDSemantics-32.html) - 30 November 2004
@@ -43,7 +42,6 @@ _The following findings reflect the current position of the TAG._
 
 _The following findings are works-in-progress._
 
-* [The Web is not Versioned](https://github.com/w3ctag/the-web-is-not-versioned/)
 * [Sustainability of Bundling and Caching](https://w3ctag.github.io/caching-bundling-sustainability/)
 * [Supporting BFCached Documents](https://w3ctag.github.io/bfcache-guide/)
 
@@ -79,4 +77,3 @@ Having approved a finding:
 
 * For minor changes thereafter, we continue to publish updates using the same "latest version URI" (i.e., it remains part of the same document series). It is possible for the latest version of the series to be "not yet approved". That should be a temporary state, however. Findings in an intermediate state should refer to the previous approved version.
 * For major changes, we can start a new series (with a different "latest version URI"). If we start a new series, the new series should explain its relation to the old one (e.g., whether the new series supersedes the old series).
-
