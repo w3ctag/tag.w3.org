@@ -91,6 +91,8 @@ from high level architectural decisions down to alternative naming choices.]
 
 [Describe an alternative which was considered,
 and why you decided against it.
+This alternative may have been part of a prior proposal in the same area,
+or it may be new.
 If you did any research in making this decision, discuss it here.]
 
 ### [Alternative 2]
@@ -127,4 +129,12 @@ Many thanks for valuable feedback and advice from:
 
 - [Person 1]
 - [Person 2]
+- [etc.]
+
+Thanks to the following proposals, projects, libraries, frameworks, and languages
+for their work on similar problems that influenced this proposal.
+
+- [Framework 1]
+- [Project 2]
+- [Proposal 3]
 - [etc.]
