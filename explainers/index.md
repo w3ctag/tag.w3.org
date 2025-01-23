@@ -28,7 +28,7 @@ it should contain the following key components:
    Explain the proposed solution or approach to addressing the identified problem.
 1. Practical Use Cases:
    Show example pieces of code that use the proposed solution to solve the user-facing problems.
-1. Considered Alternatives:
+1. Alternatives Considered:
    Describe other ways the problem might be solved and why you prefer your proposal.
 1. Accessibility, Security, and Privacy Considerations:
    Highlight any accessibility, security, and privacy implications that have been taken into account
