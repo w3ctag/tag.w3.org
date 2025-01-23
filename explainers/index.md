@@ -112,10 +112,21 @@ Help the reader understand which parts of your explainer describe the Web as it 
 If your proposed design depends on other non-consensus features, list them.
 
 ### Show the Alternatives That You Considered
+{:#alternatives}
 
-As your design evolves, keep track of and make a note of alternatives which have been considered, and your reasons for not choosing them.
+As your design evolves, keep track of and make a note of alternatives which have been considered.
+Explain what makes them worse for the web than your primary proposal.
 
 You undoubtedly had reasons not to choose those alternatives, but reviewers and other stakeholders may not have that context. Avoid redundant "what about [already-ruled out alternative]" type questions by explaining why those alternatives were ruled out.
+
+### Connect to History
+{:#history}
+
+Many important end-user problems have a history of failed and incomplete attempts to solve them.
+Look for and draw on those ideas when developing and explaining your own proposal.
+Link to all prior art in either
+your [considered alternatives](https://github.com/w3ctag/tag.w3.org/blob/main/explainers/template.md#considered-alternatives) section
+or your [references and acknowledgements](https://github.com/w3ctag/tag.w3.org/blob/main/explainers/template.md#references--acknowledgements).
 
 ----
 
