@@ -63,9 +63,10 @@ you should always try to keep your explainer as brief and easy to read as possib
 
 ### Explain the End-User's need
 
-Start with a clear explanation of the end-user problem you're trying to solve,
+Start with a clear demonstration of the end-user problem you're trying to solve,
 even if the connection is complex or
 you discovered the problem by talking to web developers who emphasized their own needs.
+Use screenshots and diagrams when possible, [with alt text](#alt-text).
 
 Sometimes the connection to the end-user need is complicated.
 Do explain the connection,
@@ -97,12 +98,14 @@ This is a time investment but will save time and energy for your readers.
 
 ### Describe Your Proposal Clearly
 
-Wherever possible, use code examples rather than prose to “show” rather than “tell” your design.
+Show how your proposal changes the end-to-end user experience
+using screenshots, diagrams, and code examples.
+Connect these into a narrative of what steps users currently follow,
+and how your proposal improves that.
 
-Use diagrams to aid understanding.
-A picture is, for most readers, much easier to process than a slab of text.
-
-Always provide text alternatives for readers who may not be able to see images.
+A picture is, for most readers, much easier to process than a slab of text,
+but always provide text alternatives for readers who may not be able to see images.
+{:#alt-text}
 
 - Simpler images may be described via an [image alt](https://webaim.org/techniques/alttext/#complex).
 - More complex images may require a longer description in the form of a footnote or appendix to the document, linked immediately after the image, with a back-link to return to the section containing the image.
