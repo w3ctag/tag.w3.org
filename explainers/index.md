@@ -117,6 +117,14 @@ As your design evolves, keep track of and make a note of alternatives which have
 
 You undoubtedly had reasons not to choose those alternatives, but reviewers and other stakeholders may not have that context. Avoid redundant "what about [already-ruled out alternative]" type questions by explaining why those alternatives were ruled out.
 
+### Enable Easy Deep Linking
+
+You should host your explainer as HTML at a stable, readable URL,
+ideally next to where the specification is expected to land.
+Use a source format like Markdown
+that makes it easy for reviewers to link directly to sections inside the document.
+It's fine to use a host like Github that automatically renders Markdown.
+
 ----
 
 By following these guidelines, you can create clear, concise, and accessible explainers that effectively communicate your proposed web standards specifications for W3C TAG review.
