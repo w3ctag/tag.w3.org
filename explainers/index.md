@@ -54,8 +54,8 @@ the explainer can then provide a basis for author-facing documentation of the ne
 - [Declarative Shadow DOM](https://github.com/mfreed7/declarative-shadow-dom/blob/master/README.md)
 - [Autoplay Policy Detection](https://github.com/w3c/autoplay/blob/main/README.md)
 
-<a id="tips"></a>
 ## Tips for Writing Effective Explainers
+{:#tips}
 
 Since your explainer may be referred to by a range of stakeholders,
 not all of whom are likely to be highly motivated to spend a lot of time on it,

@@ -4,3 +4,5 @@
       - .jekyll-cache/
   include:
       - node_modules
+  kramdown:
+    header_links: true
