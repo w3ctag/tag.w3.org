@@ -63,7 +63,7 @@ you should always try to keep your explainer as brief and easy to read as possib
 
 ### Explain the End-User's need
 
-Start with a clear demonstration of the end-user problem you're trying to solve,
+Start with a clear description of the end-user problem you're trying to solve,
 even if the connection is complex or
 you discovered the problem by talking to web developers who emphasized their own needs.
 Use screenshots, mockups, wireframes, diagrams, and/or other visuals when possible, [with alt text](#alt-text).
