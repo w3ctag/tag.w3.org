@@ -82,7 +82,7 @@ group), list them here.]
 
 [etc.]
 
-## Considered alternatives
+## Alternatives considered
 
 [This should include as many alternatives as you can,
 from high level architectural decisions down to alternative naming choices.]
