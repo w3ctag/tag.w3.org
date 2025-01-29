@@ -66,7 +66,7 @@ you should always try to keep your explainer as brief and easy to read as possib
 Start with a clear demonstration of the end-user problem you're trying to solve,
 even if the connection is complex or
 you discovered the problem by talking to web developers who emphasized their own needs.
-Use screenshots and diagrams when possible, [with alt text](#alt-text).
+Use screenshots, mockups, wireframes, diagrams, and/or other visuals when possible, [with alt text](#alt-text).
 
 Sometimes the connection to the end-user need is complicated.
 Do explain the connection,
