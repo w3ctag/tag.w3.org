@@ -73,7 +73,8 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [Hadley Beeman re-appointed to the TAG (Oct 2022)](https://lists.w3.org/Archives/Member/w3c-ac-members/2022OctDec/0003.html) *(Member-only)*
 
 ### W3C Team appointments
-- [W3C Team appointments to the TAG ratified](https://www.w3.org/news/2024/w3c-team-appointments-to-the-tag-ratified/)
+- [W3C Team appointments to the TAG ratified (July 2024)](https://www.w3.org/news/2024/w3c-team-appointments-to-the-tag-ratified/)
+- [W3C Team appointment to the TAG ratified (January 2025)](https://www.w3.org/news/2025/w3c-team-appointment-to-the-tag-ratified/)
 
 ### Archived TAG pages
 
