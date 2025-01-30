@@ -46,3 +46,37 @@ help them apply to become Invited Experts for certain working groups. Contributi
 work are subject to the procedural rules that apply to outside contributions.
 
 The TAG will publicly document its current and past TAG Associates.
+
+{% if site.data.associates.associates.size > 0 %}
+<link rel="stylesheet" href="/history/members.css">
+
+{%- assign minYear = 2024 -%}
+{%- capture years %}{{site.data.associates.maxYear | minus: minYear | plus: 1}}{% endcapture -%}
+
+<table id="membersList" style="--minYear: {{minYear}}; --years: {{years}}">
+  <thead class="years">
+    <tr>
+      <th>Name</th>
+      {% for year in (minYear..site.data.associates.maxYear) -%}
+        <th>{{year}}</th>
+      {% endfor -%}
+    </tr>
+  </thead>
+  {% for associate in site.data.associates.associates -%}
+    <tr>
+      <th class="name" scope="row">{{associate.name}}</th>
+      <td class="terms" colspan="{{years}}">
+        {% for term in associate.terms -%}
+        {%- capture start %}{{term.start|date:"%b %-d, %Y"}}{% endcapture -%}
+        {%- capture end %}{{term.end|date:"%b %-d, %Y"}}{% endcapture -%}
+          <div class="term appointed" title="{{start}} &ndash; {{end}}"
+               style="--sy:{{term.start|date:"%Y"}}; --sm:{{term.start|date:"%-m"}}; --sd:{{term.start|date:"%-d"}}; --ey:{{term.end|date:"%Y"}}; --em:{{term.end|date:"%-m"}}; --ed:{{term.end|date:"%-d"}}">
+               {{start}}&ndash;{{end|remove:"Jan 31, "}}
+          </div>
+        {% endfor -%}
+      </td>
+    </tr>
+  {% endfor -%}
+</table>
+
+{% endif %}
