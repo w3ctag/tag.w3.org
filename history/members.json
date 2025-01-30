@@ -891,5 +891,15 @@
 				"type": "elected"
 			}
 		]
+	},
+	{
+		"name": "Lola Odelola",
+		"term": [
+			{
+				"start": "2025-02-01",
+				"end": "2027-01-31",
+				"type": "appointed"
+			}
+		]
 	}
 ]
