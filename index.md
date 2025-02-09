@@ -12,7 +12,6 @@ title: W3C Technical Architecture Group
 
 <p>Find out how in <a href="/workmode/">Working with the TAG</a>.</p>
 
-
 </div>
 <div class="col-sm-4">
 
@@ -29,9 +28,11 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Publications</h2>
 
-<p><a href="https://www.w3.org/TR/security-privacy-questionnaire/">Security and Privacy Self-Review Questionnaire</a></p>
+<p>The TAG has most recently published our <a href="https://www.w3.org/TR/ethical-web-principles/">Ethical Web Principles</a>, which has <a href="https://www.w3.org/blog/2024/ethical-web-principles-building-a-better-web/">been elevated to a W3C Statement</a>.</p>
 
-<p>The TAG maintains a document with <a href="https://w3ctag.github.io/design-principles/">Client-side API Design Principles</a>.</p>
+<p>The TAG maintains and develops the <a href="https://www.w3.org/TR/design-principles/">Web Platform Principles</a> which has become one of our core working documents.</p>
+
+<p><a href="https://www.w3.org/TR/security-privacy-questionnaire/">Security and Privacy Self-Review Questionnaire</a></p>
 
 <p><a href="/findings/">TAG Findings</a> are shorter statements about specific architectural issues.</p>
 
