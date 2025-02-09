@@ -7,10 +7,10 @@ The TAG's primary focus is on the architecture of the World Wide Web, including 
 
 Our work includes:
 
- * **Recommendations** - On occasion, the TAG will produce a Recommendation-track document, such as the Architecture of the World Wide Web, Volume 1. When appropriate, the TAG also liaises with W3C Working Groups to produce Recommendations.
- * **Findings** - Findings represent a TAG position on a single issue or area of interest.
- * **Reviews** - The TAG also reviews specifications in development, Working Group charters and other W3C technical materials.
- * **Documentation** - Finally, the TAG sometimes publishes non-normative documentation and guides.
+ * **Notes** - We work on Notes such as the [Design Principles](https://www.w3.org/TR/design-principles/)
+ * **Statements** - On occasion, the TAG will produce a Statements, which are Notes that are put forward for full W3C consensus. An exmaple is the [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/).
+ * **Findings** - [Findings](https://tag.w3.org/findings/) represent a TAG position on a single issue or area of interest.
+ * **Reviews** - The TAG also [reviews](https://github.com/w3ctag/design-reviews/) specifications in development, Working Group charters and other W3C technical materials.
  
 See [our workspace page](https://github.com/w3ctag/) for a list of our current work items.
 
@@ -30,7 +30,7 @@ Those who participate in discussions in any of our issue trackers or on our publ
 
 * Messages in mailing lists or trackers may cause notifications to thousands of busy people, so please keep them brief and on-topic. Refrain from sending long stories, aphorisms, etc., even if you feel that they bolster your argument.
 
-* Please keep messages focused and concise, be polite and respectful of fellow contributors and TAG members. Understand others' perspectives, be prepared to change your view in response to compelling evidence, and avoid becoming combative, frustrated or passive aggressive.  TAG members will be respectful of anyone who engages with us, and we expect the same in return.  We are also bound by the [W3C Code of professional ethics](https://github.com/w3ctag/tag.w3.org/blob/master/codeofconduct/index.md)
+* Please keep messages focused and concise, be polite and respectful of fellow contributors and TAG members. Understand others' perspectives, be prepared to change your view in response to compelling evidence, and avoid becoming combative, frustrated or passive aggressive.  TAG members will be respectful of anyone who engages with us, and we expect the same in return.  We are also bound by the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
 
 * We reserve the right to ban those who persistently post off-topic messages, unsolicited commercial e-mail, those who are disrespectful of others, and those we consider to be “trolls.”
 
