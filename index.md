@@ -21,7 +21,7 @@ title: W3C Technical Architecture Group
 
 <p>The next TAG face-to-face meeting is a face-to-face in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2025/03-Paris">March 2025 in Paris</a>, hosted by Octo.</p>
 
-<p>Agendas and minutes are in our <a href="[https://github.com/w3ctag/meetings](https://github.com/w3ctag/meetings/tree/gh-pages/2025">meetings repository</a>.</p>
+<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>; See the <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2025">2025 meetings</a>.</p>
 
 </div>
 <div class="col-sm-4">
