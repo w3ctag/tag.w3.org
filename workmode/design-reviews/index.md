@@ -20,7 +20,7 @@ Review is performed both synchronously in calls, and asynchronously, depending o
 
 We track the status of review requests with issue labels.  Labels describe how we intend to conduct a review, who we believe is responsible for any outstanding actions, and any resolution to the review.
 
-During a review, we my use the issue thread to ask questions, make suggestions, and report our current thinking. 
+During a review, we may use the issue thread to ask questions, make suggestions, and report our current thinking. 
 We also update the issue labels, milestones, and assignees as the review progresses. 
 Other stakeholders may also update the thread with additional information if they think it will help the review.
 
