@@ -90,3 +90,4 @@ For names and terms that could not be determined from the announcements above.
 - [Tim Bray on his 2004 resignation](https://lists.w3.org/Archives/Public/www-tag/2014Jun/0070.html)
 - [The Upcoming TAG By-Election (Jul 2013)](https://www.w3.org/blog/2013/07/the-upcoming-tag-by-election/)
 - [W3C Opens Technical Architecture Group (TAG) Special Election (Mar 2018)](https://www.w3.org/blog/news/archives/6871)
+- [In Memoriam: Mario Jeckle](https://lists.w3.org/Archives/Member/w3c-ac-members/2004AprJun/0053.html)
