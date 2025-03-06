@@ -1,18 +1,28 @@
+.container {
+	container: content-container / inline-size
+}
+
 #membersList {
 	position: relative;
 	--year-fr: calc(100% / var(--years));
 	--month-fr: calc(var(--year-fr) / 12);
 	--day-fr: calc(var(--month-fr) / 31);
 
-	width: 94vw;
+	width: 100%;
 	counter-reset: participant;
+}
 
-	margin-left: calc(-1 * (47vw - var(--container-width) / 2));
+@supports (margin-left: calc(-1 * (47vw - 50cqi))) {
+	#membersList {
+		width: 94vw;
+		margin-left: calc(-1 * (47vw - 50cqi));
+	}
 }
 
 @media (max-width: 1600px) {
 	#membersList thead th + th {
 		writing-mode: vertical-lr;
+		vertical-align: top;
 	}
 }
 
@@ -71,8 +81,8 @@
 }
 
 .term {
-	--_sy: calc(var(--sy) - 2001);
-	--_ey: calc(var(--ey) - 2001);
+	--_sy: calc(var(--sy) - var(--minYear));
+	--_ey: calc(var(--ey) - var(--minYear));
 	--_sm: calc(var(--sm) - 1);
 	--_em: calc(var(--em) - 1);
 	--start: calc(var(--day-fr) * var(--sd) + var(--month-fr) * var(--_sm) + var(--_sy) * var(--year-fr) );

@@ -1,0 +1,32 @@
+# This file contains a list of TAG associates with the dates they were associates.
+# The `maxYear` field should be the highest year in an end date.
+# Each person should be a list item of the form:
+#
+# - name: "Name"
+#   terms:
+#   - start: yyyy-mm-dd
+#     end: yyyz-01-31
+#   - start: yyyy-mm-dd
+#     end: yyyz-01-31
+#
+# Note that Associate terms end at the latest when the next round of
+# TAG members are seated.
+
+maxYear: 2026
+associates:
+- name: "Christian Liebel"
+  terms:
+  - start: 2025-02-13
+    end: 2026-01-31
+- name: "Dan Clark"
+  terms:
+  - start: 2025-02-13
+    end: 2026-01-31
+- name: "Simon Pieters"
+  terms:
+  - start: 2025-02-13
+    end: 2026-01-31
+- name: "Yoav Weiss"
+  terms:
+  - start: 2025-02-13
+    end: 2026-01-31
