@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing Effective Explainers for W3C TAG Review
+title: Writing Effective Explainers
 ---
 
 ## Participate
