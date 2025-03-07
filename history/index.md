@@ -60,6 +60,8 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [Vincent Quint Appointed to TAG (Dec 2004)](https://lists.w3.org/Archives/Member/w3c-ac-members/2004OctDec/0045.html) *(Member-only)*
 - [Director appointments (Nov 2005)](https://lists.w3.org/Archives/Member/w3c-ac-members/2005OctDec/0023.html) *(Member-only)*
 - [Stuart Williams appointed to TAG (Nov 2006)](https://lists.w3.org/Archives/Member/w3c-ac-members/2006OctDec/0049.html) *(Member-only)*
+- [TAG Appointments (Nov 2007)](https://lists.w3.org/Archives/Member/w3c-ac-members/2007OctDec/0031.html) *(Member-only)*
+- [Jeni Tennison appointed to the TAG (Mar 2011)](https://lists.w3.org/Archives/Public/www-tag/2011Mar/0039.html) ([Member-only version](https://lists.w3.org/Archives/Member/w3c-ac-members/2011JanMar/0048.html))
 - [Appointments and Chair Announcements for the TAG (May 2013)](https://lists.w3.org/Archives/Member/w3c-ac-members/2013AprJun/0026.html) *(Member-only)*
 - [Hadley Beeman appointed to the TAG (Apr 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015AprJun/0010.html) *(Member-only)*
 - [Dan Appelquist re-appointed to the TAG (Jun 2015)](https://lists.w3.org/Archives/Member/w3c-ac-members/2015AprJun/0059.html) *(Member-only)*
