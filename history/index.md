@@ -8,16 +8,39 @@ This is a timeline of all TAG members and their terms,
 from the initial group in 2001 to the present.
 The data was pieced together from various [references](#references),
 which are listed below, but may still contain inaccuracies.
-Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag.w3.org/blob/main/history/members.json)
+Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag.w3.org/blob/main/_data/members.json)
 
-<table id="membersList">
-	<thead class="years">
-		<tr>
-			<th>Name</th>
-		</tr>
-	</thead>
+<link rel="stylesheet" href="/history/members.css">
+
+{%- assign minYear = 2001 -%}
+{%- capture years %}{{site.data.members.maxYear | minus: minYear | plus: 1}}{% endcapture -%}
+
+<table id="membersList" style="--minYear: {{minYear}}; --years: {{years}}">
+  <thead class="years">
+    <tr>
+      <th>Name</th>
+      {% for year in (minYear..site.data.members.maxYear) -%}
+        <th>{{year}}</th>
+      {% endfor -%}
+    </tr>
+  </thead>
+  {% for member in site.data.members.members -%}
+    <tr>
+      <th class="name" scope="row">{{member.name}}</th>
+      <td class="terms" colspan="{{years}}">
+        {% for term in member.term -%}
+        {%- capture start %}{{term.start|date:"%b %-d, %Y"}}{% endcapture -%}
+        {%- capture end %}{{term.end|date:"%b %-d, %Y"}}{% endcapture -%}
+        <div class="term {{term.type}} {%if term.resigned%}resigned{%endif%}"
+            title="{{term.type}}, {{start}} &ndash; {{end}}{%if term.note%}; {{term.note}}{%endif%}"
+          style="--sy:{{term.start|date:"%Y"}}; --sm:{{term.start|date:"%-m"}}; --sd:{{term.start|date:"%-d"}}; --ey:{{term.end|date:"%Y"}}; --em:{{term.end|date:"%-m"}}; --ed:{{term.end|date:"%-d"}}">
+              {{start|remove: "Feb 1, "}}&ndash;{{end|remove:"Jan 31, "}}
+        </div>
+        {% endfor -%}
+      </td>
+    </tr>
+  {% endfor -%}
 </table>
-
 ## References
 
 ### TAG Election Results
