@@ -131,6 +131,15 @@ Link to all prior art in either
 your [considered alternatives](https://github.com/w3ctag/tag.w3.org/blob/main/explainers/template.md#considered-alternatives) section
 or your [references and acknowledgements](https://github.com/w3ctag/tag.w3.org/blob/main/explainers/template.md#references--acknowledgements).
 
+### Enable Easy Deep Linking
+
+You should host your explainer as HTML at a stable, readable URL,
+ideally next to where the specification is expected to land.
+Use a format
+that makes it easy for reviewers to link directly to sections inside the document,
+like Markdown or HTML.
+It's fine to use a host like GitHub that automatically renders Markdown.
+
 ----
 
 By following these guidelines, you can create clear, concise, and accessible explainers that effectively communicate your proposed web standards specifications for W3C TAG review.
