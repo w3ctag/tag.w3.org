@@ -45,24 +45,26 @@ First, we check all relevant information is included, that the explainer is in s
 
 We apply **labels** according to the following, to help us decide how to proceed with a review:
 
-* Any deadlines in the request.
+* `Priority`: Any deadlines in the request.
 * At which **stage** the proposal has come in:
     * horizontal review from a WG
     * early review from a CG
     * early review from a browser process
     * request from a WG that is not part of HR
-* The **size** of the review:
+* `Review type`: The **size** of the review:
     * A complex domain?
     * A small delta?
     * Major gaps in the proposal?
     * Contentious issues that need to be resolved?
-* What should the **primary area** of focus be?
+* `Focus`: What should the **primary area** of focus be?
     * API design
     * Security
     * Privacy
     * Accessibility
     * Internationalisation
     * Web architecture
+
+We also label with `Topic`, `Venue` and `Provenance` to help us organise our issues.
 
 During triage, we might decline a request for any reason (see below).
 For reviews that we accept, we will **label** review requests with a _mode_:
@@ -85,11 +87,13 @@ When prioritising issues to work on, we:
 * Prioritise proposals with a clear path to standardisation, including multiple implementations.
 * Prioritise based on an assessment of impact, preferring proposals where review will add more value.
 
+We may use `Priority` labels to track whether something is urgent.
+
 ### Review areas
 
 It is usually best to review new features/specifications/proposals with expertise from several different areas.
 
-We do this by passing a review between different TAG members, depending on the area they are best equipped to cover. We use labels to indicate the status of each part of the review (eg. `API review: pending` / `API review: complete`). A review is complete when all areas have been marked as complete (or not applicable).
+We do this by passing a review between different TAG members, depending on the **focus area** they are best equipped to cover. We use labels to indicate the status of each part of the review (eg. `Focus: API review (pending)` / `Focus: API review (complete)`). A review is complete when all focus areas have been marked as complete (or not applicable).
 
 Broadly, the areas we cover most commonly are:
 
@@ -154,6 +158,12 @@ We also have a "plenary" call every two weeks, which all TAG members are expecte
 If any area of a review can be completed asynchronously, any individual TAG member with the appropriate domain expertise can do so. Most reviews will be conducted by at least two people; often one who is leading and another who is checking over comments before they are posted. This can happen in Slack, between breakouts.
 
 We keep each other updated about any reviews that were completed asynchronously during our plenary calls.
+
+## Tracking progress
+
+We use github labels beginning with `Progress:` to track the current status of a review at a glance. When a review is complete, there should be no `Progress` labels attached.
+
+We update the `Focus:` labels to say `pending` or `complete` for each focus area as we do the review. Sometimes this is done in parts, by different TAG members; sometimes a single response will cover all of the relevant focus areas.
 
 ## Resolutions
 
