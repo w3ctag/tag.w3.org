@@ -137,7 +137,7 @@ You should host your explainer as HTML at a stable, readable URL,
 ideally next to where the specification is expected to land.
 Use a source format like Markdown
 that makes it easy for reviewers to link directly to sections inside the document.
-It's fine to use a host like Github that automatically renders Markdown.
+It's fine to use a host like GitHub that automatically renders Markdown.
 
 ----
 
