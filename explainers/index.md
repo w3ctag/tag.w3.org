@@ -135,8 +135,9 @@ or your [references and acknowledgements](https://github.com/w3ctag/tag.w3.org/b
 
 You should host your explainer as HTML at a stable, readable URL,
 ideally next to where the specification is expected to land.
-Use a source format like Markdown
-that makes it easy for reviewers to link directly to sections inside the document.
+Use a format
+that makes it easy for reviewers to link directly to sections inside the document,
+like Markdown or HTML.
 It's fine to use a host like GitHub that automatically renders Markdown.
 
 ----
