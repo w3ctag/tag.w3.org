@@ -4,7 +4,7 @@ title: The Explainer Explainer has moved.
 ---
 
 <script>
-location = "https://w3ctag.github.io/explainer-explainer/#introduction";
+location = "https://w3ctag.github.io/explainer-explainer/" + location.hash;
 </script>
 <meta http-equiv="refresh" content="0; url=https://w3ctag.github.io/explainer-explainer/#introduction" />
 
