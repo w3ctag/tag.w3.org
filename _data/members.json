@@ -406,9 +406,11 @@
 			},
 			{
 				"start": "2024-02-01",
-				"end": "2026-01-31",
+				"end": "2025-06-30",
 				"type": "elected",
-				"chair": true
+				"chair": true,
+				"resigned": true,
+				"note": "Resigned when elected to the Advisory Board"
 			}
 		]
 	},
