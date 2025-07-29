@@ -80,4 +80,4 @@ The TAG will publicly document its current and past TAG Associates.
 
 ## References
 
-* [Feb 13, 2025 appointments](https://github.com/w3ctag/meetings/blob/gh-pages/2025/02-10-minutes.md#appoint-tag-associates)
+* [Feb 13, 2025 appointments](https://github.com/w3ctag/meetings/blob/gh-pages/2025/telcons/02-10-minutes.md#appoint-tag-associates)
