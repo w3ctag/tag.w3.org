@@ -9,6 +9,7 @@ lead: Findings are short documents that cover a specific issue in the Web archit
 
 _The following findings reflect the current position of the TAG._
 
+* [Preventing Abuse of Digital Credentials](https://www.w3.org/2001/tag/doc/prevent-credential-abuse/) - 14 November 2025
 * [The web is unversioned](https://www.w3.org/2001/tag/doc/the-web-is-unversioned/) - 3 December 2024
 * [Improving the web without third-party cookies](https://www.w3.org/2001/tag/doc/web-without-3p-cookies/) - 4 May 2023
 * [W3C TAG Observations on Private Browsing Modes](https://www.w3.org/2001/tag/doc/private-browsing-modes/) - 5 July 2019
