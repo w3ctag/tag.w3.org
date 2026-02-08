@@ -75,7 +75,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 - [TAG election results (Dec 2023)](https://www.w3.org/news/2023/w3c-advisory-committee-elects-technical-architecture-group/)
 - [Detailed TAG election results (Dec 2023)](https://lists.w3.org/Archives/Member/w3c-ac-members/2023OctDec/0059.html) *(Member-only)*
 - [TAG election results (Dec 2024)](https://www.w3.org/news/2024/w3c-advisory-committee-elects-technical-architecture-group/)
-- [TAG election results (Nov 2025)](https://www.w3.org/news/2025/w3c-advisory-committee-elects-technical-architecture-group/) 
+- [TAG election results (Nov 2025)](https://www.w3.org/news/2025/w3c-advisory-committee-elects-technical-architecture-group/)
 
 ### Director appointments
 
@@ -101,6 +101,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 ### W3C Team appointments
 - [W3C Team appointments to the TAG ratified (July 2024)](https://www.w3.org/news/2024/w3c-team-appointments-to-the-tag-ratified/)
 - [W3C Team appointment to the TAG ratified (January 2025)](https://www.w3.org/news/2025/w3c-team-appointment-to-the-tag-ratified/)
+- [W3C Team appointment to the TAG ratified (February 2026)](https://www.w3.org/news/2026/w3c-team-appointment-to-the-tag/)
 
 ### Archived TAG pages
 
