@@ -101,7 +101,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3ctag/tag
 ### W3C Team appointments
 - [W3C Team appointments to the TAG ratified (July 2024)](https://www.w3.org/news/2024/w3c-team-appointments-to-the-tag-ratified/)
 - [W3C Team appointment to the TAG ratified (January 2025)](https://www.w3.org/news/2025/w3c-team-appointment-to-the-tag-ratified/)
-- [W3C Team appointment to the TAG](https://www.w3.org/news/2026/w3c-team-appointment-to-the-tag/)
+- [W3C Team appointment to the TAG ratified (February 2026)](https://www.w3.org/news/2026/w3c-team-appointment-to-the-tag/)
 
 ### Archived TAG pages
 
