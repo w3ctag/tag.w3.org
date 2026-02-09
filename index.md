@@ -32,7 +32,7 @@ title: W3C Technical Architecture Group
 
 <p>The TAG, via the <a href="https://www.w3.org/groups/tf/tag-privacy/">Web Privacy Principles Task Force</a> published <a href="https://www.w3.org/TR/privacy-principles/">Privacy Principles</a> as a W3C Statement.</p>
 
-<p>The TAG maintains and develops the <a href="https://www.w3.org/TR/design-principles/">Web Platform Principles</a> which has become one of our core working documents.</p>
+<p>The TAG maintains and develops the <a href="https://www.w3.org/TR/design-principles/">Web Platform Design Principles</a> which has become one of our core working documents.</p>
 
 <p><a href="/findings/">TAG Findings</a> are shorter statements about specific architectural issues.</p>
 
