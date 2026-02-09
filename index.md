@@ -30,7 +30,7 @@ title: W3C Technical Architecture Group
 
 <p>The TAG has published our <a href="https://www.w3.org/TR/ethical-web-principles/">Ethical Web Principles</a>, which has <a href="https://www.w3.org/blog/2024/ethical-web-principles-building-a-better-web/">been elevated to a W3C Statement</a>.</p>
 
-<p>The TAG, via the <a href="">Web Privacy Principles Task Force</a> published <a href="https://www.w3.org/TR/privacy-principles/">Privacy Principles</a> as a W3C Statement.</p>
+<p>The TAG, via the <a href="https://www.w3.org/groups/tf/tag-privacy/">Web Privacy Principles Task Force</a> published <a href="https://www.w3.org/TR/privacy-principles/">Privacy Principles</a> as a W3C Statement.</p>
 
 <p>The TAG maintains and develops the <a href="https://www.w3.org/TR/design-principles/">Web Platform Principles</a> which has become one of our core working documents.</p>
 
