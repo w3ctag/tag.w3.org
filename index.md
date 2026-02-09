@@ -17,11 +17,11 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our next public event will be a <a href="https://evenement.octo.com/inscription-à-lévénement-du-3-mars-meet-the-tag">developer meet-up co-located with our next F2F meeting, hosted by Octo, on the 3rd of March, 2025</a></p>
+<p>Our next public event will be a developer meet-up, hosted by Samsung, on the 4th of March, 2026</a></p>
 
-<p>The next TAG face-to-face meeting is a face-to-face in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2025/03-Paris">March 2025 in Paris</a>, hosted by Octo.</p>
+<p>The next TAG face-to-face meeting is a face-to-face in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026/03-London">March 2026 in London, UK</a>, hosted by Google.</p>
 
-<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>; See the <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2025">2025 meetings</a>.</p>
+<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>; See the <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026">2026 meetings</a>.</p>
 
 </div>
 <div class="col-sm-4">
