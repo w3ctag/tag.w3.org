@@ -17,7 +17,7 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our next public event will be a developer meet-up, hosted by Samsung, on the 4th of March, 2026</a></p>
+<p>Our next public event will be a <a href="https://ti.to/web-standards/meet-the-w3c-tag">developer meet-up, hosted by Samsung, on the 4th of March, 2026</a></p>
 
 <p>The next TAG face-to-face meeting will be held in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026/03-London">March 2026 in London, UK</a>, hosted by Google.</p>
 
