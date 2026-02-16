@@ -17,22 +17,22 @@ title: W3C Technical Architecture Group
 
 <h2><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Upcoming Events</h2>
 
-<p>Our next public event will be a <a href="https://evenement.octo.com/inscription-à-lévénement-du-3-mars-meet-the-tag">developer meet-up co-located with our next F2F meeting, hosted by Octo, on the 3rd of March, 2025</a></p>
+<p>Our next public event will be a <a href="https://ti.to/web-standards/meet-the-w3c-tag">developer meet-up, hosted by Samsung in London, on the 4th of March, 2026</a></p>
 
-<p>The next TAG face-to-face meeting is a face-to-face in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2025/03-Paris">March 2025 in Paris</a>, hosted by Octo.</p>
+<p>The next TAG face-to-face meeting will be held in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026/03-London">March 2026 in London, UK</a>, hosted by Google.</p>
 
-<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>; See the <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2025">2025 meetings</a>.</p>
+<p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>; See the <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026">2026 meetings</a>.</p>
 
 </div>
 <div class="col-sm-4">
 
 <h2><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Publications</h2>
 
-<p>The TAG has most recently published our <a href="https://www.w3.org/TR/ethical-web-principles/">Ethical Web Principles</a>, which has <a href="https://www.w3.org/blog/2024/ethical-web-principles-building-a-better-web/">been elevated to a W3C Statement</a>.</p>
+<p>The TAG has published our <a href="https://www.w3.org/TR/ethical-web-principles/">Ethical Web Principles</a>, which has <a href="https://www.w3.org/blog/2024/ethical-web-principles-building-a-better-web/">been elevated to a W3C Statement</a>.</p>
 
-<p>The TAG maintains and develops the <a href="https://www.w3.org/TR/design-principles/">Web Platform Principles</a> which has become one of our core working documents.</p>
+<p>The TAG, via the <a href="https://www.w3.org/groups/tf/tag-privacy/">Web Privacy Principles Task Force</a> published <a href="https://www.w3.org/TR/privacy-principles/">Privacy Principles</a> as a W3C Statement.</p>
 
-<p><a href="https://www.w3.org/TR/security-privacy-questionnaire/">Security and Privacy Self-Review Questionnaire</a></p>
+<p>The TAG maintains and develops the <a href="https://www.w3.org/TR/design-principles/">Web Platform Design Principles</a> which has become one of our core working documents.</p>
 
 <p><a href="/findings/">TAG Findings</a> are shorter statements about specific architectural issues.</p>
 
