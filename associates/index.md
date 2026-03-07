@@ -70,7 +70,7 @@ The TAG will publicly document its current and past TAG Associates.
         {%- capture end %}{{term.end|date:"%b %-d, %Y"}}{% endcapture -%}
           <div class="term appointed" title="{{start}} &ndash; {{end}}"
                style="--sy:{{term.start|date:"%Y"}}; --sm:{{term.start|date:"%-m"}}; --sd:{{term.start|date:"%-d"}}; --ey:{{term.end|date:"%Y"}}; --em:{{term.end|date:"%-m"}}; --ed:{{term.end|date:"%-d"}}">
-               {{start}}&ndash;{{end|remove:"Jan 31, "}}
+               {{start|remove:"Feb 1, "}}&ndash;{{end|remove:"Jan 31, "}}
           </div>
         {% endfor -%}
       </td>

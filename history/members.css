@@ -103,7 +103,6 @@
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	text-align: center;
 	background: hsl(220 10% 70%) linear-gradient(to right, white, hsl(0 0% 0% / .1) 2px, transparent);
 	border-radius: 1px;
 }
