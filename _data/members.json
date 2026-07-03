@@ -940,7 +940,7 @@
 			{
 				"start": "2026-02-01",
 				"end": "2026-07-03",
-				"type": "elected"
+				"type": "elected",
 				"resigned" : true
 			}
 		]
