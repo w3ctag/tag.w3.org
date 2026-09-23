@@ -4,8 +4,6 @@ title: Thinking About Joining the W3C TAG?
 
 ---
 
-# Thinking About Joining the W3C TAG?
-
 The W3C [Technical Architecture Group](https://www.w3.org/2001/tag/) (TAG) is responsible for the stewardship of the Web's architecture. [Formally](https://www.w3.org/policies/process/#tag-role), that means documenting and building consensus around principles of Web architecture, helping resolve architectural issues, and coordinating architectural work across technologies and communities.
 
 In practice, serving on the TAG means something broader: regularly looking at technologies you may know well alongside technologies you have never encountered before, and asking what their design means for the Web as a whole.
