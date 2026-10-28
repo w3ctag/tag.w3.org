@@ -19,7 +19,7 @@ title: W3C Technical Architecture Group
 
 <p>Our next public event will be a <a href="https://luma.com/nxgs9837">developer meet-up, hosted by VanJS, on the 9th of September, 2026</a></p>
 
-<p>The next TAG face-to-face meeting will be held in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026/09-Vancouver">September 2026 in Vancouver, Canada</a>, hosted by Apple.</p>
+<p>The next TAG face-to-face meeting will be held in <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2027/03-Karlsruhe">March 2027 in Karlsruhe, Germany</a>, hosted by Thinktecture.</p>
 
 <p>Agendas and minutes are in our <a href="https://github.com/w3ctag/meetings">meetings repository</a>; See the <a href="https://github.com/w3ctag/meetings/tree/gh-pages/2026">2026 meetings</a>.</p>
 
