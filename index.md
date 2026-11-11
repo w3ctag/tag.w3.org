@@ -40,4 +40,3 @@ title: W3C Technical Architecture Group
 
 </div>
 </div>
-

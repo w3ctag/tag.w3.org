@@ -78,7 +78,7 @@ The less obvious challenge is the breadth.
 
 On the TAG, you may spend one discussion looking at a browser API, another considering an identity or payments mechanism, and another thinking about a fundamental question involving URLs, user agents, privacy, or the relationship between the Web and an emerging technology.
 
-You will frequently encounter work outside your immediate expertise. That can be uncomfortable, but it is also one of the most interesting parts of serving on the TAG. 
+You will frequently encounter work outside your immediate expertise. That can be uncomfortable, but it is also one of the most interesting parts of serving on the TAG.
 
 Few roles offer the same opportunity to see such a broad cross-section of technologies being proposed for the Web and to think about how they interact before many of those architectural choices become difficult to change.
 
@@ -91,4 +91,3 @@ You do not need to know everything about the Web platform, and you should probab
 You should consider the TAG if you have substantial expertise in some part of the Web or Internet ecosystem and are interested in using that expertise to reason about larger architectural questions.
 
 You should also be prepared to read a lot, ask questions when you do not understand something, spend time on work outside your own specialty, disagree constructively, and make a real weekly commitment to the work.
-

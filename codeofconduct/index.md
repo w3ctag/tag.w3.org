@@ -11,7 +11,7 @@ Our work includes:
  * **Statements** - On occasion, the TAG will produce a Statements, which are Notes that are put forward for full W3C consensus. An exmaple is the [Ethical Web Principles](https://www.w3.org/TR/ethical-web-principles/).
  * **Findings** - [Findings](https://tag.w3.org/findings/) represent a TAG position on a single issue or area of interest.
  * **Reviews** - The TAG also [reviews](https://github.com/w3ctag/design-reviews/) specifications in development, Working Group charters and other W3C technical materials.
- 
+
 See [our workspace page](https://github.com/w3ctag/) for a list of our current work items.
 
 Our work items are tracked and developed in [Github](https://github.com/w3ctag/). If you have a specific issue with one of the documents the TAG is working on or has published, we encourage you to open an issue against that document on Github, or fork our work and send us a pull request.
