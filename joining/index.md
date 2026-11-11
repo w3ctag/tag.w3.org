@@ -24,7 +24,7 @@ That means reviewing work where you have relevant expertise, bringing that exper
 
 ## How much time does it take?
 
-You should plan on **at least one business day a week**, and sometimes more. And travel internationally at least **two times per year** (more below).
+You should plan on **at least eight hours a week**, and sometimes more. And travel internationally at least **two times per year** (more below).
 
 The TAG currently holds a plenary call every other week and breakout calls every week. Members are expected to participate in two breakouts each week (plus the plenary, when it’s held), although the particular meetings may depend on timezone and the work being discussed. There is also substantial work outside meetings: reading specifications and explainers, participating in design reviews, discussing issues on GitHub, reviewing documents, and contributing to TAG publications.
 
